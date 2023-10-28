@@ -46,9 +46,6 @@ redirect_from:
 
 学术任职
 =====
-
-**审稿人**
-
 IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 审稿人
 
 ICASSP 2023,2024, 审稿人
@@ -56,3 +53,5 @@ ICASSP 2023,2024, 审稿人
 AAAI 2023,2024, 审稿人
 
 ICME 2023, 审稿人
+
+
