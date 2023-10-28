@@ -14,18 +14,17 @@ I am a Ph.D. student supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.
 
 News
 =====
-:exclamation: I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
-
-:exclamation: Two paper has been received by ACM MM (**CCF-A**) as first author! (01/08/2023)
++ I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
++ Two paper has been received by ACM MM (**CCF-A**) as first author! (01/08/2023)
 
 Selected Awards and Honors
 ======
-+ 2023 **China National Scholarship for doctoral students (top 1.5%)**, Ministry of Education of the People's Republic of China.
-+ **Outstanding Communist Party of China** in Harbin Institute of Technology, Faculty of Computing, Harbin Institute of Technology.
-+ **Outstanding Student** of Faculty of Computing, Harbin Institute of Technology.
-+ 2021 **Outstanding Graduates** of University of Electronic Science and Technology of China.
-+ 2018-2021 **Outstanding Student Scholarship (top 20%)** of University of Electronic Science and Technology of China.
-+ 2021 **Meritorious Winner (winning ratio 7.09%)** in Mathematical Contest In Modeling, the COMAP of American.
++ 2023 China National Scholarship for doctoral students (top 1.5%), Ministry of Education of the People's Republic of China.
++ Outstanding Communist Party of China in Harbin Institute of Technology, Faculty of Computing, Harbin Institute of Technology.
++ Outstanding Student of Faculty of Computing, Harbin Institute of Technology.
++ 2021 Outstanding Graduates of University of Electronic Science and Technology of China.
++ 2018-2021 Outstanding Student Scholarship (top 20%) of University of Electronic Science and Technology of China.
++ 2021 Meritorious Winner (winning ratio 7.09%) in Mathematical Contest In Modeling, the COMAP of American.
 
 Publication
 =====
