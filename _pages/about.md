@@ -14,7 +14,7 @@ I am a Ph.D. student supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.
 
 News
 =====
-+ I have received the 2023 China National Scholarship for doctoral students - ![#f03c15](https://placehold.it/15/f03c15/000000?text=(top 1.5%)) `#f03c15`! (23/10/2023)
++ I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
 + Two paper has been received by ACM MM (**CCF-A**) as first author! (01/08/2023)
 
 Selected Awards and Honors
