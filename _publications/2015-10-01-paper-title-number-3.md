@@ -1,6 +1,6 @@
 我是哈尔滨工业大学（HIT）的博士生，由[范晓鹏教授](http://homepage.hit.edu.cn/xiaopengfan)指导。我的研究兴趣包括计算机视觉、多模态学习、脉冲神经网络和联合源通道编码。
 
-[电子邮箱](liwr@stu.hit.edu.cn)  / [谷歌学术]((https://scholar.google.cz/citations?hl=zh-CN&user=ccfWCWsAAAAJ))
+[电子邮箱](liwr@stu.hit.edu.cn)  / [谷歌学术](https://scholar.google.cz/citations?hl=zh-CN&user=ccfWCWsAAAAJ)
 
 新闻
 =====
