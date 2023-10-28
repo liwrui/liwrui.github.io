@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenrui Li (李文瑞)"
-  avatar           : "wenruili.png"
+  avatar           : "../image/wenruili.png"
   bio              : "Harbin Institute of Technology"
   location         : "SiChuan"
   employer         :
