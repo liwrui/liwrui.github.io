@@ -14,7 +14,7 @@ I am a Ph.D. student supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.
 
 News
 =====
-+ I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
++ I have received the 2023 China National Scholarship for doctoral students - ![#f03c15](https://placehold.it/15/f03c15/000000?text=(top 1.5%)) `#f03c15`! (23/10/2023)
 + Two paper has been received by ACM MM (**CCF-A**) as first author! (01/08/2023)
 
 Selected Awards and Honors
@@ -40,9 +40,19 @@ Publication
 + **W. Li**, J. Miao and G. Cheng, "A Jacobi-Like Algorithm for the General Joint Diagonalization Problem with Its Application to Blind Source Separation," 2019 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI), Suzhou, China, 2019, pp. 1-5, doi: 10.1109/CISP-BMEI48845.2019.8965896.
 
 Education
-======
+=====
 + Ph.D. student of Artificial Intelligence, Harbin Institute of Technology, 2021-present
 + Visiting student of Peng Cheng Laboratory supervised by [Prof. Yonghong Tian](https://www.ece.pku.edu.cn/info/1046/2476.htm), 2022-2023
 + B.Sc. of Computer Science, University of Electronic Science and Technology of China, 2017-2021
 
-<a href="https://info.flagcounter.com/3ffz"><img src="https://s11.flagcounter.com/map/3ffz/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+Academic Activities
+=====
+**Reviewer**
+IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
+ICASSP 2023,2024, Reviewer
+AAAI 2023,2024, Reviewer
+ICME 2023, Reviewer
+
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5avwjphimsr&amp;s=266&amp;m=8&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
