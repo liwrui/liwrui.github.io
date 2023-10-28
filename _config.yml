@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wenrui / Bio"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenrui Li (李文瑞)"
-  avatar           : "../image/wenruili.png"
+  avatar           : "../image/wenruili.jpg"
   bio              : "Harbin Institute of Technology"
   location         : "SiChuan"
   employer         :
