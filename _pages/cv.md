@@ -44,5 +44,15 @@ redirect_from:
 + 鹏城实验室访问学生 supervised by [田永鸿教授](https://www.ece.pku.edu.cn/info/1046/2476.htm), 2022-2023
 + 电子科技大学软件学院学士, 2017-2021
 
-======
-* Currently signed in to 43 different slack teams
+学术任职
+=====
+
+**审稿人**
+
+IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 审稿人
+
+ICASSP 2023,2024, 审稿人
+
+AAAI 2023,2024, 审稿人
+
+ICME 2023, 审稿人
