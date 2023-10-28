@@ -47,10 +47,12 @@ Education
 
 Academic Activities
 =====
-**Reviewer**
 IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
+
 ICASSP 2023,2024, Reviewer
+
 AAAI 2023,2024, Reviewer
+
 ICME 2023, Reviewer
 
 
