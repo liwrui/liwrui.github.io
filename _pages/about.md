@@ -10,12 +10,16 @@ redirect_from:
 
 I am a Ph.D. student supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan) from Harbin Institute of Technology (HIT). My research interest includes computer vision, multimedia, spiking neural network and joint source-channel coding.
 
-[Email](liwr@stu.hit.edu.cn) / [Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&user=ccfWCWsAAAAJ)
+Email：liwr@stu.hit.edu.cn/liwr618@163.com / [Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&user=ccfWCWsAAAAJ)
 
 News
 =====
++ Two paper has been submitted to ICME-24 as corresponding author! Good Luck!
++ One paper has been submitted to CVPR-24 as first author! Good Luck!
 + I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
 + Two paper has been received by ACM MM (**CCF-A**) as first author! (01/08/2023)
++ One paper has been submitted to ICASSP-24 as second author! Good Luck to!
++ One paper has been submitted to IEEE TMM as first author! Good Luck!
 
 Selected Awards and Honors
 ======
@@ -48,6 +52,8 @@ Education
 Academic Activities
 =====
 IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
+
+The Journal of Supercomputing, Reviewer
 
 ICASSP 2023,2024, Reviewer
 
