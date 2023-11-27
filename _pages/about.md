@@ -18,7 +18,7 @@ News
 + One paper has been submitted to CVPR-24 as first author! Good Luck!
 + I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
 + Two paper has been received by ACM MM (**CCF-A**) as first author! (01/08/2023)
-+ One paper has been submitted to ICASSP-24 as second author! Good Luck to!
++ One paper has been submitted to ICASSP-24 as second author! Good Luck!
 + One paper has been submitted to IEEE TMM as first author! Good Luck!
 
 Selected Awards and Honors
