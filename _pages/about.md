@@ -14,11 +14,10 @@ Email：liwr@stu.hit.edu.cn/liwr618@163.com / [Google Scholar](https://scholar.g
 
 News
 =====
++ One paper (Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition) has been accepted by **IEEE TMM** as first author! (16/02/2024)
 + One paper has been submitted to CVPR-24 as first author! Good Luck!
 + I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
-+ Two paper has been received by ACM MM (**CCF-A**) as first author! (01/08/2023)
-+ One paper has been submitted to ICASSP-24 as second author! Good Luck!
-+ One paper has been submitted to IEEE TMM as first author! Good Luck!
++ Two paper has been accepted by ACM MM (**CCF-A**) as first author! (01/08/2023)
 
 Selected Awards and Honors
 ======
@@ -31,6 +30,7 @@ Selected Awards and Honors
 
 Publication
 =====
++ **W. Li**, J. Li, M. Ma, X. Hong and X. Fan. 2024. Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition. In IEEE Transactions on Multimedia (TMM).
 + **W. Li**, X. -L Zhao, Z. Ma, X. Wang, X. Fan, and Y. Tian. 2023. Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning. In Proceedings of the 31st ACM International Conference on Multimedia (ACM MM). New York, NY, USA, 3994–4002. https://doi.org/10.1145/3581783.3611759,2023.
 + **W. Li**, Z. Ma, L. -J. Deng, P. Wang, J. Shi, and X. Fan. 2023. Reservoir Computing Transformer for Image-Text Retrieval. In Proceedings of the 31st ACM International Conference on Multimedia (ACM MM). New York, NY, USA, 5605–5613. https://doi.org/10.1145/3581783.3611758,2023.
 + **W. Li**, Z. Ma, J. Shi and X. Fan, "The Style Transformer With Common Knowledge Optimization for Image-Text Retrieval," in IEEE Signal Processing Letters (SPL), vol. 30, pp. 1197-1201, 2023, doi: 10.1109/LSP.2023.3310870.
