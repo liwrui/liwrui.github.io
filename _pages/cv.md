@@ -13,11 +13,10 @@ redirect_from:
 
 新闻
 =====
++ 作为第一作者，一篇论文（Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition）已被TMM 接收！（2024年2月18日）
 + 一篇工作作为第一作者提交给CVPR-24! Good Luck!
 + 我获得了2023年度博士生中国国家奖学金（前1.5%）！（2023年10月23日）
 + 作为第一作者，两篇论文已被ACM MM（CCF-A）接收！（2023年8月1日）
-+ 一篇工作作为第二作者提交给ICASSP-24! Good Luck!
-+ 一篇工作作为第一作者提交给IEEE TMM! Good Luck!
 
 获奖与荣誉
 =====
