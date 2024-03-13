@@ -13,7 +13,7 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @include breakpoint($large) {
+  @include breakpoint($x-large) {
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
@@ -45,14 +45,14 @@
   }
 
   img {
-    width: 300%;
+    width: 100%;
   }
 }
 
 .sidebar__right {
   margin-bottom: 1em;
 
-  @include breakpoint($large) {
+  @include breakpoint($x-large) {
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
