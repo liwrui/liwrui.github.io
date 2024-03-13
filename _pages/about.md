@@ -14,8 +14,8 @@ Email：liwr@stu.hit.edu.cn/liwr618@163.com / [Google Scholar](https://scholar.g
 
 News
 =====
++ One paper (SMILE: spiking multi-modal interactive label-guided enhancement network for emotion recognition) has been accepted by **IEEE ICME (CCF-B)**, congratulation to Ming Guo! (13/03/2024)
 + One paper (Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition) has been accepted by **IEEE TMM** as first author! (16/02/2024)
-+ One paper has been submitted to CVPR-24 as first author! Good Luck!
 + I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
 + Two paper has been accepted by ACM MM (**CCF-A**) as first author! (01/08/2023)
 
