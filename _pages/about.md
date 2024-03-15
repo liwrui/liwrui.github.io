@@ -30,7 +30,7 @@ Selected Awards and Honors
 
 Publication
 =====
-+ **W. Li**, J. Li, M. Ma, X. Hong and X. Fan. 2024. Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition. In IEEE Transactions on Multimedia (TMM).
++ **W. Li**, J. Li, M. Ma, X. Hong and X. Fan. 2024. "Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2024.3368964.
 + **W. Li**, X. -L Zhao, Z. Ma, X. Wang, X. Fan, and Y. Tian. 2023. Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning. In Proceedings of the 31st ACM International Conference on Multimedia (ACM MM). New York, NY, USA, 3994–4002. https://doi.org/10.1145/3581783.3611759,2023.
 + **W. Li**, Z. Ma, L. -J. Deng, P. Wang, J. Shi, and X. Fan. 2023. Reservoir Computing Transformer for Image-Text Retrieval. In Proceedings of the 31st ACM International Conference on Multimedia (ACM MM). New York, NY, USA, 5605–5613. https://doi.org/10.1145/3581783.3611758,2023.
 + **W. Li**, Z. Ma, J. Shi and X. Fan, "The Style Transformer With Common Knowledge Optimization for Image-Text Retrieval," in IEEE Signal Processing Letters (SPL), vol. 30, pp. 1197-1201, 2023, doi: 10.1109/LSP.2023.3310870.
