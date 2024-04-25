@@ -14,6 +14,7 @@ Email：liwr@stu.hit.edu.cn/liwr618@163.com / [Google Scholar](https://scholar.g
 
 News
 =====
++ One paper (Multi-layer Probabilistic Association Reasoning Network for Image-Text Retrieval) has been accepted by **IEEE TCSVT** as first author! (23/04/2024)
 + One paper (SMILE: spiking multi-modal interactive label-guided enhancement network for emotion recognition) has been accepted by **IEEE ICME (CCF-B)**, congratulation to Ming Guo! (13/03/2024)
 + One paper (Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition) has been accepted by **IEEE TMM** as first author! (16/02/2024)
 + I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
@@ -21,15 +22,16 @@ News
 
 Selected Awards and Honors
 ======
-+ 2023 China National Scholarship for doctoral students (top 1.5%), Ministry of Education of the People's Republic of China.
++ 2023 China National Scholarship for doctoral students **(top 1.5%)**, Ministry of Education of the People's Republic of China.
 + Outstanding Communist Party of China in Harbin Institute of Technology, Faculty of Computing, Harbin Institute of Technology.
 + Outstanding Student of Faculty of Computing, Harbin Institute of Technology.
 + 2021 Outstanding Graduates of University of Electronic Science and Technology of China.
-+ 2018-2021 Outstanding Student Scholarship (top 20%) of University of Electronic Science and Technology of China.
-+ 2021 Meritorious Winner (winning ratio 7.09%) in Mathematical Contest In Modeling, the COMAP of American.
++ 2018-2021 Outstanding Student Scholarship **(top 20%)** of University of Electronic Science and Technology of China.
++ 2021 Meritorious Winner **(winning ratio 7.09%)** in Mathematical Contest In Modeling, the COMAP of American.
 
 Publication
 =====
++ **W. Li**, R. Xiong and X. Fan. 2024. "Multi-layer Probabilistic Association Reasoning Network for Image-Text Retrieval," in IEEE Transactions on Multimedia **(TCSVT)**, doi: 10.1109/TCSVT.2024.3394551.
 + **W. Li**, J. Li, M. Ma, X. Hong and X. Fan. 2024. "Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition," in IEEE Transactions on Multimedia **(TMM)**, doi: 10.1109/TMM.2024.3368964.
 + **W. Li**, X. -L Zhao, Z. Ma, X. Wang, X. Fan, and Y. Tian. 2023. Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning. In Proceedings of the 31st ACM International Conference on Multimedia **(ACM MM)**. New York, NY, USA, 3994–4002. https://doi.org/10.1145/3581783.3611759,2023.
 + **W. Li**, Z. Ma, L. -J. Deng, P. Wang, J. Shi, and X. Fan. 2023. Reservoir Computing Transformer for Image-Text Retrieval. In Proceedings of the 31st ACM International Conference on Multimedia **(ACM MM)**. New York, NY, USA, 5605–5613. https://doi.org/10.1145/3581783.3611758,2023.
@@ -52,10 +54,17 @@ Education
 Academic Activities
 =====
 IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
+
+IEEE Transactions on Multimedia (IEEE TMM), Reviewer
+
 The Journal of Supercomputing, Reviewer
+
 ACM MM 2024, Reviewer
+
 ICASSP 2023,2024, Reviewer
+
 AAAI 2023,2024, Reviewer
+
 ICME 2023, Reviewer
 
 
