@@ -14,6 +14,7 @@ Email：liwr@stu.hit.edu.cn/liwr618@163.com / [Google Scholar](https://scholar.g
 
 News
 =====
++ One paper (DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT) has been accepted by **IEEE IoTJ**, congratulation to Penghong! (20/05/2024)
 + One paper (Multi-layer Probabilistic Association Reasoning Network for Image-Text Retrieval) has been accepted by **IEEE TCSVT** as first author! (23/04/2024)
 + One paper (SMILE: spiking multi-modal interactive label-guided enhancement network for emotion recognition) has been accepted by **IEEE ICME (CCF-B)**, congratulation to Ming Guo! (13/03/2024)
 + One paper (Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition) has been accepted by **IEEE TMM** as first author! (16/02/2024)
@@ -38,6 +39,7 @@ Publication
 + **W. Li**, Z. Ma, J. Shi and X. Fan, "The Style Transformer With Common Knowledge Optimization for Image-Text Retrieval," in IEEE Signal Processing Letters **(SPL)**, vol. 30, pp. 1197-1201, 2023, doi: 10.1109/LSP.2023.3310870.
 + **W. Li**, Z. Ma, L. -J. Deng, H. Man and X. Fan, "Modality-Fusion Spiking Transformer Network for Audio-Visual Zero-Shot Learning," 2023 IEEE International Conference on Multimedia and Expo **(ICME)**, **oral**, Brisbane, Australia, 2023, pp. 426-431, doi: 10.1109/ICME55011.2023.00080.
 + **W. Li**, Z. Ma, L. -J. Deng, X. Fan and Y. Tian, "Neuron-Based Spiking Transmission and Reasoning Network for Robust Image-Text Retrieval," in IEEE Transactions on Circuits and Systems for Video Technology **(IEEE TCSVT)**, vol. 33, no. 7, pp. 3516-3528, July 2023, doi: 10.1109/TCSVT.2022.3233042.
++ P. Wang, X. Wang, **W. Li**, X. Fan and D. Zhao. 2023. Reservoir Computing Transformer for Image-Text Retrieval. In Proceedings of the 31st ACM International Conference on Multimedia **(ACM MM)**. New York, NY, USA, 5605–5613. https://doi.org/10.1145/3581783.3611758,2023.
 + M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang. 2024. "SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition," in IEEE International Conference on Multimedia and Expo **(ICME)**.
 + G. Cheng, J. Miao, **W. Li**, “Two Jacobi-like algorithms for the general joint diagonalization problem with applications to blind source separation,” **Chinese Journal of Electronics**, in press, doi: 10.23919/cje.2019.00.102, 2022.
 + **W. Li** and X. Fan, "Image-Text Alignment and Retrieval Using Light-Weight Transformer," ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP)**, Singapore, Singapore, 2022, pp. 4758-4762, doi: 10.1109/ICASSP43922.2022.9747440.
@@ -60,6 +62,8 @@ IEEE Transactions on Multimedia (IEEE TMM), Reviewer
 The Journal of Supercomputing, Reviewer
 
 ACM MM 2024, Reviewer
+
+NeurIPS 2024, Reviewer
 
 ICASSP 2023,2024, Reviewer
 
