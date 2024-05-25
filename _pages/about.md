@@ -46,7 +46,7 @@ Publication
 
 [7] **W. Li**, Z. Ma, L. -J. Deng, X. Fan and Y. Tian, "Neuron-Based Spiking Transmission and Reasoning Network for Robust Image-Text Retrieval," in IEEE Transactions on Circuits and Systems for Video Technology **(IEEE TCSVT)**, vol. 33, no. 7, pp. 3516-3528, July 2023, doi: 10.1109/TCSVT.2022.3233042.
 
-[8] P. Wang, X. Wang, **W. Li**, X. Fan and D. Zhao. 2023. Reservoir Computing Transformer for Image-Text Retrieval. In Proceedings of the 31st ACM International Conference on Multimedia **(ACM MM)**. New York, NY, USA, 5605–5613. https://doi.org/10.1145/3581783.3611758,2023.
+[8] P. Wang, X. Wang, **W. Li**, X. Fan and D. Zhao. 2024. "DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT"  in IEEE Internet of Things Journal **(IEEE IoTJ)**, doi: 10.1109/JIOT.2024.3404492.
 
 [9] M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang. 2024. "SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition," in IEEE International Conference on Multimedia and Expo **(ICME)**.
 
