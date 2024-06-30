@@ -14,6 +14,7 @@ Email：liwr@stu.hit.edu.cn/liwr618@163.com / [Google Scholar](https://scholar.g
 
 News
 =====
++ One paper (Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning) has been accepted by **IEEE TIP** as first author! (30/06/2024)
 + One paper (DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT) has been accepted by **IEEE IoTJ**, congratulation to Penghong! (20/05/2024)
 + One paper (Multi-layer Probabilistic Association Reasoning Network for Image-Text Retrieval) has been accepted by **IEEE TCSVT** as first author! (23/04/2024)
 + One paper (SMILE: spiking multi-modal interactive label-guided enhancement network for emotion recognition) has been accepted by **IEEE ICME (CCF-B)**, congratulation to Ming Guo! (13/03/2024)
@@ -32,6 +33,8 @@ Selected Awards and Honors
 
 Publication
 =====
+[1] **W. Li**, P. Wang, R. Xiong and X. Fan. 2024. "Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning," in IEEE Transactions on Image Processing **(TIP)**.
+
 [1] **W. Li**, R. Xiong and X. Fan. 2024. "Multi-layer Probabilistic Association Reasoning Network for Image-Text Retrieval," in IEEE Transactions on Circuits and Systems for Video Technology **(TCSVT)**, doi: 10.1109/TCSVT.2024.3394551.
 
 [2] **W. Li**, J. Li, M. Ma, X. Hong and X. Fan. 2024. "Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition," in IEEE Transactions on Multimedia **(TMM)**, doi: 10.1109/TMM.2024.3368964.
