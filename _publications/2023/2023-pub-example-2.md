@@ -1,19 +1,20 @@
 ---
-title:          Aux-ViT： Classification of Alzheimer's Disease from MRI based on Vision Transformer with Auxiliary Branch
-date:           2023-04-14 00:01:00 +0800
-selected:       false
-pub:            "2023 5th International Conference on Communications, Information System and Computer Engineering (CISCE)"
+title:          Motion-decoupled spiking transformer for audio-visual zero-shot learning
+selected:       true
+pub:            "Proceedings of the 31st ACM International Conference on Multimedia ACM MM"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 pub_date:       "2023"
-abstract: >-
-  We propose an Aux-ViT model for Alzheimer's diagnosis using MRI that adds an auxiliary branch to the Vision Transformer backbone to preserve shallow features and reduce overfitting, achieving improved accuracy over the baseline ViT model through multi-scale data preprocessing and augmentation techniques.
+abstract: Most of the existing methods are restricted to background scene bias and fewer motion details by employing a single-stream network to process scenes and motion information as a unified entity. In this paper, we address this challenge by proposing a novel dual-stream architecture Motion-Decoupled Spiking Transformer (MDFT) to explicitly decouple the contextual semantic information and highly sparsity dynamic motion information.
 
-cover:          assets/images/covers/cover2.jpg
+cover:          assets/images/covers/MDST.jpg
 authors:
-  - Yaofei Duan†
-  - Rongsheng Wang
-  - Yukun Li
+  - Wenrui Li
+  - Xi-Le Zhao
+  - Zhengyu Ma
+  - Xingtao Wang
+  - Xiaopeng Fan†
+  - Yonghong Tian
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/10142358/
-  Cite: assets/bibtex/duan2023vit.bib
+  Paper: https://dl.acm.org/doi/abs/10.1145/3581783.3611759
+  Cite: assets/bibtex/MDST.bib
 ---
