@@ -53,21 +53,21 @@ awards:
     date: 2021
 
 service:
-  - name: IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
+  - name: IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
     role: Reviewer
-  - name: IEEE Transactions on Multimedia (IEEE TMM)
+  - name: IEEE Transactions on Multimedia (IEEE TMM), Reviewer
     role: Reviewer
-  - name: The Journal of Supercomputing
+  - name: The Journal of Supercomputing, Reviewer
     role: Reviewer
-  - name: ACM MM 2024
+  - name: ACM MM 2024, Reviewer
     role: Reviewer
-  - name: NeurIPS 2024
+  - name: NeurIPS 2024, Reviewer
     role: Reviewer
-  - name: ICASSP 2023, 2024
+  - name: ICASSP 2023, 2024, Reviewer
     role: Reviewer
-  - name: AAAI 2023, 2024
+  - name: AAAI 2023, 2024, Reviewer
     role: Reviewer
-  - name: ICME 2023
+  - name: ICME 2023, Reviewer
     role: Reviewer
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
