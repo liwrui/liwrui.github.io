@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3581783.3611759,
+author = {Li, Wenrui and Zhao, Xi-Le and Ma, Zhengyu and Wang, Xingtao and Fan, Xiaopeng and Tian, Yonghong},
+title = {Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning},
+year = {2023},
+isbn = {9798400701085},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3581783.3611759},
+doi = {10.1145/3581783.3611759},
+abstract = {Audio-visual zero-shot learning (ZSL) has attracted board attention, as it could classify video data from classes that are not observed during training. However, most of the existing methods are restricted to background scene bias and fewer motion details by employing a single-stream network to process scenes and motion information as a unified entity. In this paper, we address this challenge by proposing a novel dual-stream architecture Motion-Decoupled Spiking Transformer (MDFT) to explicitly decouple the contextual semantic information and highly sparsity dynamic motion information. Specifically, The Recurrent Joint Learning Unit (RJLU) could extract contextual semantic information effectively and understand the environment in which actions occur by capturing joint knowledge between different modalities. By converting RGB images to events, our approach effectively captures motion information while mitigating the influence of background scene biases, leading to more accurate classification results. We utilize the inherent strengths of Spiking Neural Networks (SNNs) to process highly sparsity event data efficiently. Additionally, we introduce a Discrepancy Analysis Block (DAB) to model the audio motion features. To enhance the efficiency of SNNs in extracting dynamic temporal and motion information, we dynamically adjust the threshold of Leaky Integrate-and-Fire (LIF) neurons based on the statistical cues of global motion and contextual semantic information. Our experiments demonstrate the effectiveness of MDFT, which consistently outperforms state-of-the-art methods across mainstream benchmarks. Moreover, we find that motion information serves as a powerful regularization for video networks, where using it improves the accuracy of HM and ZSL by 19.1\% and 38.4\%, respectively.},
+booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+pages = {3994–4002},
+numpages = {9},
+keywords = {audio-visual zero-shot learning, spiking neural network},
+location = {Ottawa ON, Canada},
+series = {MM '23}
+}
