@@ -52,7 +52,17 @@
 <body class="bg-light" {{ page.body_attr }}>
     {% include navbar.html %}
     <div class="container">
-        {{content}}
+        {{ content }}
+        
+        <!-- Add the section for Selected Awards and Honors -->
+        {% if site.data.profile.selected_awards_and_honors %}
+          <h2>Selected Awards and Honors</h2>
+          <ul>
+          {% for award in site.data.profile.selected_awards_and_honors %}
+            <li>{{ award.name }} - {{ award.date }}</li>
+          {% endfor %}
+          </ul>
+        {% endif %}
     </div>
     {% include footer.html %}
 
