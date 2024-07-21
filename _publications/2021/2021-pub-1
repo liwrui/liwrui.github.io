@@ -1,1 +1,18 @@
-sas
+---
+title:          A Jacobi-Like Algorithm for the General Joint Diagonalization Problem with Its Application to Blind Source Separation
+selected:       false
+pub:            "2019 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
+pub_date:       "2019"
+abstract: >-
+  We propose EfficientNet-YOLOv5 for marine microalgae detection to address challenges of tiny objects and unequal categories, achieving improved accuracy over baseline models on microscopy datasets.
+  
+cover:          assets/images/covers/2021-pub1.png
+authors:
+  - Wenrui Li
+  - Jifei Miao
+  - Guanghui Cheng†
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/8965896
+  Cite: assets/bibtex/2021-pub1.bib
+---
