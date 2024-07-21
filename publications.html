@@ -7,7 +7,7 @@ body_attr: >-
 ---
 
 <blockquote>
-    All papers that have not been peer-reviewed will not appear here, including preprints. You can access my all of papers at <a href="https://scholar.google.cz/citations?user=ccfWCWsAAAAJ&hl=zh-CN">🔗Google Scholar</a>.
+    All papers that have not been peer-reviewed will not appear here, including preprints. You can access all of my papers at <a href="https://scholar.google.cz/citations?user=ccfWCWsAAAAJ&hl=zh-CN">🔗Google Scholar</a>.
 </blockquote>
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
@@ -18,8 +18,13 @@ body_attr: >-
         {% assign num_papers = year.items | size %}
         <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+            {% assign paper_count = 1 %}
             {% for item in year.items %}
-                {% include widgets/publication_item.html item=item %}
+                {% assign paper_id = year.name | append: "-pub-" | append: paper_count %}
+                <div id="{{ paper_id }}">
+                    {% include widgets/publication_item.html item=item %}
+                </div>
+                {% assign paper_count = paper_count | plus: 1 %}
             {% endfor %}
         </div>
         {% endfor %}
@@ -32,5 +37,4 @@ body_attr: >-
             {% endfor %}
         </div>
     </div>
-
 </div>
