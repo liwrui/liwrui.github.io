@@ -1,68 +1,74 @@
-primary_name: "Rongsheng Wang"
+primary_name: "Wenrui Li"
 secondary_name: ""
-navbar_name: "Rongsheng Wang's Home Page"
+navbar_name: "Wenrui Li's Home Page"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/mpu_master.png" alt="Macao Polytechnic University" class="inline-badge"/></span> M.S., Macao Polytechnic University (2024)'
+  - '<span class="no-break"><img src="assets/images/badges/hit.png" alt="Harbin Institute of Technology" class="inline-badge"/></span> Ph.D, Harbin Institute of Technology'
 
-email: "wrs6@88.com"
-gscholar: SSaBaioAAAAJ
-github: wangrongsheng
-twitter: RongshengWang
+email: "liwr618@163.com"
+gscholar: https://scholar.google.cz/citations?hl=zh-CN&user=ccfWCWsAAAAJ
+
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-zhihu: wang-rong-sheng-74
+
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am Rongsheng Wang, I used to study at Macao Polytechnic University (MPU) and work under the supervision of Prof.<a href="https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ">Tao Tan</a>. My research interests are computer vision, LLM, trusted LLM, RAG, and Agent systems. I am also interested in generative data research. I am currently seeking a PhD opportunity. <br> I publish a lot of open source projects on <a href="https://github.com/WangRongsheng">🔗Github</a>. I shared some of the datasets and model weights used by the project at <a href="https://huggingface.co/wangrongsheng">🔗HuggingFace</a>. I likewise like to post some small-parameter LM at <a href="https://ollama.com/wangrongsheng">🔗Ollama</a> to help people use it locally.
-
+I am a Ph.D. student supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan) from Harbin Institute of Technology (HIT). My research interest includes computer vision, multimedia, spiking neural network and joint source-channel coding.
 show_portrait: true
-portrait_url: assets/images/photos/profile_wrs.jpg
+portrait_url: assets/images/photos/wenruili.jpg
 portrait_caption: >-
-  我是王荣胜，欢迎访问我的主页~
+  我是李文瑞，欢迎访问我的主页~
 
 education:
-- name: Macao Polytechnic University
-  logo: assets/images/badges/mpu_master.png
-  position: M.S. in Big Data and Internet of Things
-  date: Sep. 2022 - Jul. 2024
-- name: Henan Polytechnic University
-  logo: assets/images/badges/hpu_bs.png
-  position: B.S. in Computer Science (AI)
-  date: Sep. 2018 - Jul. 2022
+- name: Harbin Institute of Technology
+  logo: assets/images/badges/hit.png
+  position: Ph.D in Computer Science
+  date: Sep. 2021 - Sep. 2025 (Expected)
+- name: University of Electronic Science and Technology of China
+  logo: assets/images/badges/uestc.png
+  position: B.S. in Software Engineering
+  date: Sep. 2017 - Jul. 2021
   
 experience:
-- name: Qiyuan.Tech
-  logo: assets/images/badges/qiyuan.png
-  position: CTO, Reasercher
-  date: Oct. 2023 - Now
-- name: HKUST (GZ) 
-  logo: assets/images/badges/hkust-gz.png
-  position: Research Assistant (Supervisor is <a href="https://web.archive.org/web/20240717103203/https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/BAI-Yun/yunbai">Yun Bai</a> and <a href="https://cee.rutgers.edu/xiang-liu">Xiang Liu</a>)
-  date: Feb. 2024 -	May 2024
+- name: Peng Cheng laboratory
+  logo: assets/images/badges/pcl.png
+  position: Visiting student
+  date: Feb. 2022 - Feb. 2023
 
 
-awards:
-- name: First Prize of Baidu PaddlePaddle AGI Hackathon
+Selected Awards and Honors:
+- name: China National Scholarship for doctoral students (top 1.5%)
+  date: 2023
+- name: Outstanding Communist Party of China in Harbin Institute of Technology
+  date: 2023
+- name: Outstanding Student of Faculty of Computing in Harbin Institute of Technology
   date: 2024
-- name: Third Prize of Digital Medical Technology and Application Innovation Competition
-  date: 2023
-- name: Third Prize of Baichuan Intelligence and Amazon Cloud AGI Hackathon
-  date: 2023
-- name: Silver of Kaggle RSNA Screening Mammography Breast Cancer Detection
-  date: 2023
-- name: Winner of IEEE UV 2022 "Vision Meets Algae" Object Detection Challenge
-  date: 2022
-- name: <a href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C">Baidu PaddlePaddle Developers Experts</a>
+- name: Outstanding Graduates of University of Electronic Science and Technology of China
+  date: 2021
+- name: Outstanding Student Scholarship (top 20%) of University of Electronic Science and Technology of China
+  date: 2018
+- name: Meritorious Winner (winning ratio 7.09%) in Mathematical Contest In Modeling
   date: 2021
 
 service:
-- name: Reviewer of <a href="https://www.embs.org/jbhi/">Journal of Biomedical and Health Informatics (JBHI)</a>
+- name: 
+IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
 
+IEEE Transactions on Multimedia (IEEE TMM), Reviewer
+
+The Journal of Supercomputing, Reviewer
+
+ACM MM 2024, Reviewer
+
+NeurIPS 2024, Reviewer
+
+ICASSP 2023,2024, Reviewer
+
+AAAI 2023,2024, Reviewer
+
+ICME 2023, Reviewer
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
-# if you keep the link to the template so that more people can benefit from it. Thanks!
-footer_text: >-
-  Copyright © 2024 <a href="https://github.com/WangRongsheng" target="_blank">Rongsheng Wang</a>. All Rights Reserved.
+# if you keep the link to the template so that more people can benefit from it. Thanks
