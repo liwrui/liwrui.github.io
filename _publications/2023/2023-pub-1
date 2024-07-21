@@ -1,0 +1,19 @@
+---
+title:          Modality-Fusion Spiking Transformer Network for Audio-Visual Zero-Shot Learning
+selected:       false
+pub:            "Modality-Fusion Spiking Transformer Network for Audio-Visual Zero-Shot Learning"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Conference</span>'
+pub_date:       "2023"
+abstract:  Inspired by spike signals of neurons in the human brain, we propose the neuron-based spiking transmission and reasoning network (NSTRN). In this way, the features are compressed into compacted efficient representations. In NSTRN, we construct the feature sender based on spiking activation function to selectively encode only important information in images and sentences into binary codes, and reduce the transmission cost. Moreover, the feature receiver is designed as a recurrent architecture and applies both temporal attention and global attention blocks to memorize long-term information. Finally, to compensate for the loss of visual concepts in transmission, we use the global textual features as coefficients to guide the formation of visual features in the training stage. 
+  
+cover:          assets/images/covers/icme.png
+authors:
+  - Wenrui Li
+  - Zhengyu Ma
+  - Liang-Jian Deng
+  - Hengyu Man
+  - Xiaopeng Fan†
+links:
+  Paper: https://ieeexplore.ieee.org/abstract/document/10220024/
+  Cite: assets/bibtex/icme_23.bib
+---
