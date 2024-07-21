@@ -15,8 +15,8 @@ gscholar: https://scholar.google.cz/citations?hl=zh-CN&user=ccfWCWsAAAAJ
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
-short_bio: >-
-I am a Ph.D. student supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan) from Harbin Institute of Technology (HIT). My research interest includes computer vision, multimedia, spiking neural network and joint source-channel coding.
+short_bio: >
+I am a Ph.D. student supervised by Prof.<a href="http://homepage.hit.edu.cn/xiaopengfan">Xiaopeng Fan</a>. from Harbin Institute of Technology (HIT). My research interest includes computer vision, multimedia, spiking neural network and joint source-channel coding.
 show_portrait: true
 portrait_url: assets/images/photos/wenruili.jpg
 portrait_caption: >-
