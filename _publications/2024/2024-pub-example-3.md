@@ -1,32 +1,18 @@
 ---
-title:          Xiaoqing： A Q&A Model for Glaucoma Based on LLMs
-date:           2024-05-01 00:01:00 +0800
+title:          Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning
 selected:       true
-pub:            "Computers in Biology and Medicine"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
+pub:            "IEEE Transactions on Image Processing"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
 pub_date:       "2024"
 
-abstract: >-
-  We introduce Xiaoqing, an LLM model tailored for glaucoma developed through comparative and experiential experiments, demonstrating it can better serve glaucoma patients and medical research compared to general and clinical AI assistants by providing more informative and readable responses to glaucoma-related questions in Chinese.
+abstract: The spiking neural networks (SNNs) that efficiently encode temporal sequences have shown great potential in extracting audio-visual joint feature representations. However, coupling SNNs (binary spike sequences) with transformers (float-point sequences) to jointly explore the temporal-semantic information still facing challenges. In this paper, we introduce a novel Spiking Tucker Fusion Transformer (STFT) for audio-visual zero-shot learning (ZSL). The STFT leverage the temporal and semantic information from different time steps to generate robust representations. The time-step factor (TSF) is introduced to dynamically synthesis the subsequent inference information. To guide the formation of input membrane potentials and reduce the spike noise, we propose a global-local pooling (GLP) which combines the max and average pooling operations. Furthermore, the thresholds of the spiking neurons are dynamically adjusted based on semantic and temporal cues. Integrating the temporal and semantic information extracted by SNNs and Transformers are difficult due to the increased number of parameters in a straightforward bilinear model. To address this, we introduce a temporal-semantic Tucker fusion module, which achieves multi-scale fusion of SNN and Transformer outputs while maintaining full second-order interactions. Our experimental results demonstrate the effectiveness of the proposed approach in achieving state-of-the-art performance in three benchmark datasets. The harmonic mean (HM) improvement of VGGSound, UCF101 and ActivityNet are around 15.4%, 3.9%, and 14.9%, respectively.
   
-cover:          assets/images/covers/xiaoqing.jpg
+cover:          assets/images/covers/tip24.jpg
 authors:
-  - Xiaojuan Xue
-  - Deshiwei Zhang
-  - Chengyang Sun
-  - Yiqiao Shi
-  - Rongsheng Wang
-  - Tao Tan
-  - Peng Gao
-  - Sujie Fan
-  - Guangtao Zhai
-  - Menghan Hu
-  - Yue Wu†
+  - Wenrui Li
+  - Penghong Wang
+  - Ruiqin Xiong
+  - Xiaopeng Fan†
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0010482524004839
-  Demo: https://qa.glaucoma-assistant.com/#/qa
-  Cite: assets/bibtex/xue2024xiaoqing.bib
+  Paper: https://arxiv.org/abs/2407.08130
 ---
