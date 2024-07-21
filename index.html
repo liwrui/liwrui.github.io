@@ -5,7 +5,7 @@ navbar_name: Home
 num_selected: 10
 ---
 {% include widgets/profile_card.html %}
-
+{% include widgets/news_card.html %}
 {% include widgets/experience_card.html %}
 
 {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
