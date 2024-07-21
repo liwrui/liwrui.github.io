@@ -1,24 +1,20 @@
 ---
-title:          LightR-YOLOv5： A Compact Rotating Detector for SARS-CoV-2 Antigen-Detection Rapid Diagnostic Test Results
-date:           2023-07-01 00:01:00 +0800
-selected:       false
-pub:            "Displays"
-pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Journal</span>'
+title:          Reservoir computing transformer for image-text retrieval
+selected:       true
+pub:            "Proceedings of the 31st ACM International Conference on Multimedia ACM MM"
+pub_last:       ' <span class="badge badge-pill badge-custom badge-dark">Conference</span>'
 pub_date:       "2023"
-abstract: >-
-  We propose LightR-YOLOv5, a compact detector for SARS-CoV-2 antigen rapid test results that uses a lightweight feature extractor and attention modules to localize results, outperforming other object detectors while being only 2.03MB in size for efficient deployment as a verification tool.
+abstract:  Inspired by brain circuits that process information with recurrent connected neurons, we propose a novel Reservoir Computing Transformer Reasoning Network (RCTRN) for image-text retrieval. The proposed RCTRN employs a two-step strategy to focus on feature representation and data distribution of different modalities respectively. 
 
-cover:          assets/images/covers/lightr-yolo.png
+cover:          assets/images/covers/rctrn.png
 authors:
-  - Rongsheng Wang
-  - Yaofei Duan
-  - Menghan Hu
-  - Xiaohong Liu
-  - Yukun Li
-  - Qinquan Gao
-  - Tong Tong
-  - Tao Tan†
+  - Wenrui Li
+  - Zhengyu Ma
+  - Liang-Jian Deng
+  - Penghong Wang
+  - Jinqiao Shi
+  - Xiaopeng Fan†
 links:
   Paper: https://www.sciencedirect.com/science/article/pii/S0141938223000367
-  Cite: assets/bibtex/wang2023lightr.bib
+  Cite: assets/bibtex/rctrn.bib
 ---
