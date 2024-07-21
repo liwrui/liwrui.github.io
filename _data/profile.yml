@@ -16,60 +16,51 @@ gscholar: https://scholar.google.cz/citations?hl=zh-CN&user=ccfWCWsAAAAJ
 # orcid: 0000-0000-0000-0000
 
 short_bio: >
-I am a Ph.D. student supervised by Prof.<a href="http://homepage.hit.edu.cn/xiaopengfan">Xiaopeng Fan</a>. from Harbin Institute of Technology (HIT). My research interest includes computer vision, multimedia, spiking neural network and joint source-channel coding.
+  I am a Ph.D. student supervised by Prof.<a href="http://homepage.hit.edu.cn/xiaopengfan">Xiaopeng Fan</a>. from Harbin Institute of Technology (HIT). My research interest includes computer vision, multimedia, spiking neural network and joint source-channel coding.
 show_portrait: true
 portrait_url: assets/images/photos/wenruili.jpg
 portrait_caption: >-
   我是李文瑞，欢迎访问我的主页~
 
 education:
-- name: Harbin Institute of Technology
-  logo: assets/images/badges/hit.png
-  position: Ph.D in Computer Science
-  date: Sep. 2021 - Sep. 2025 (Expected)
-- name: University of Electronic Science and Technology of China
-  logo: assets/images/badges/uestc.png
-  position: B.S. in Software Engineering
-  date: Sep. 2017 - Jul. 2021
-  
-experience:
-- name: Peng Cheng laboratory
-  logo: assets/images/badges/pcl.png
-  position: Visiting student
-  date: Feb. 2022 - Feb. 2023
+  - name: Harbin Institute of Technology
+    logo: assets/images/badges/hit.png
+    position: Ph.D in Computer Science
+    date: Sep. 2021 - Sep. 2025 (Expected)
+  - name: University of Electronic Science and Technology of China
+    logo: assets/images/badges/uestc.png
+    position: B.S. in Software Engineering
+    date: Sep. 2017 - Jul. 2021
 
+experience:
+  - name: Peng Cheng laboratory
+    logo: assets/images/badges/pcl.png
+    position: Visiting student
+    date: Feb. 2022 - Feb. 2023
 
 Selected Awards and Honors:
-- name: China National Scholarship for doctoral students (top 1.5%)
-  date: 2023
-- name: Outstanding Communist Party of China in Harbin Institute of Technology
-  date: 2023
-- name: Outstanding Student of Faculty of Computing in Harbin Institute of Technology
-  date: 2024
-- name: Outstanding Graduates of University of Electronic Science and Technology of China
-  date: 2021
-- name: Outstanding Student Scholarship (top 20%) of University of Electronic Science and Technology of China
-  date: 2018
-- name: Meritorious Winner (winning ratio 7.09%) in Mathematical Contest In Modeling
-  date: 2021
-  
+  - name: China National Scholarship for doctoral students (top 1.5%)
+    date: 2023
+  - name: Outstanding Communist Party of China in Harbin Institute of Technology
+    date: 2023
+  - name: Outstanding Student of Faculty of Computing in Harbin Institute of Technology
+    date: 2024
+  - name: Outstanding Graduates of University of Electronic Science and Technology of China
+    date: 2021
+  - name: Outstanding Student Scholarship (top 20%) of University of Electronic Science and Technology of China
+    date: 2018
+  - name: Meritorious Winner (winning ratio 7.09%) in Mathematical Contest In Modeling
+    date: 2021
+
 service:
-- name: 
-IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
-
-IEEE Transactions on Multimedia (IEEE TMM), Reviewer
-
-The Journal of Supercomputing, Reviewer
-
-ACM MM 2024, Reviewer
-
-NeurIPS 2024, Reviewer
-
-ICASSP 2023,2024, Reviewer
-
-AAAI 2023,2024, Reviewer
-
-ICME 2023, Reviewer
+  - name: IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer
+  - name: IEEE Transactions on Multimedia (IEEE TMM), Reviewer
+  - name: The Journal of Supercomputing, Reviewer
+  - name: ACM MM 2024, Reviewer
+  - name: NeurIPS 2024, Reviewer
+  - name: ICASSP 2023,2024, Reviewer
+  - name: AAAI 2023,2024, Reviewer
+  - name: ICME 2023, Reviewer
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5avwjphimsr&amp;s=266&amp;m=8&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
