@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenrui Li (李文瑞)"
   avatar           : "images/wenruili.png"
-  bio              : "Wenrui li"
+  bio              : "Wechat: hitlwr"
   location         : "Heilongjiang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=ccfWCWsAAAAJ"
   email            : "liwr618@163.com"
   researchgate     :  
   uri              :
@@ -46,7 +46,6 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
-  Wechat        : hitlwr
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
