@@ -23,8 +23,8 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 I have supported by the National Natural Science Foundation of China: **2D/3D Image and Graphics Alignment, Fusion, and Perception-Based Collaborative Interaction System** from 2025.01-2027.12 (￥300,000)!
-- *2024.08*: &nbsp;🎉🎉 I have supported by the Fundamental Research Funds for the Central Universities: **Trusted multimodal alignment fusion and transmission** from 2024.08-2025.08 (￥30,000)!
+- *2024.12*: &nbsp;🎉🎉 I have supported by the National Natural Science Foundation of China, 国家自然科学基金青年学生基础研究项目(博士研究生): **2D/3D Image and Graphics Alignment, Fusion, and Perception-Based Collaborative Interaction System** from 2025.01-2027.12!
+- *2024.08*: &nbsp;🎉🎉 I have supported by the Fundamental Research Funds for the Central Universities (哈尔滨工业大学点子基金): **Trusted multimodal alignment fusion and transmission** from 2024.08-2025.08!
 - *2024.07*: &nbsp;🎉🎉 Two collaborative papers have been accepted by **ACM MM (CCF-A)**, congratulation to Haonan! 
 - *2024.06*: &nbsp;🎉🎉 One paper (Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning) has been accepted by **IEEE TIP** as first author!
 - *2024.05*: &nbsp;🎉🎉 One collaborative paper (DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT) has been accepted by **IEEE IoTJ**, congratulation to Penghong! 
@@ -67,8 +67,8 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 - *2017.09 - 2021.06*, University of Electronic Science and Technology of China, Bachelor. 
 
 # 📕 Projects
-- **Project Leader**: 2D/3D Image and Graphics Alignment, Fusion, and Perception-Based Collaborative Interaction System supported by National Natural Science Foundation of China, 2025.01-2027.12 (￥300,000)
-- **Project Leader**: Trusted multimodal alignment fusion and transmission supported by Fundamental Research Funds for the Central Universities, 2024.08-2025.08 (￥30,000)
+- **Project Leader**: 2D/3D Image and Graphics Alignment, Fusion, and Perception-Based Collaborative Interaction System supported by National Natural Science Foundation of China, 2025.01-2027.12, 国家自然科学基金青年学生基础研究项目(博士研究生).
+- **Project Leader**: Trusted multimodal alignment fusion and transmission supported by Fundamental Research Funds for the Central Universities, 2024.08-2025.08, 哈尔滨工业大学点子基金. 
  
 # 💻 Internships
 - *2023.08 - 2024.06*, Peking University ShenZhen Graduate School, Visiting Student, supervised by [Prof. Yonghong Tian](https://www.pkuml.org/staff/yhtian-cn.html).
