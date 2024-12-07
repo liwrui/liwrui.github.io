@@ -23,6 +23,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 I have received the **Bydauto Scholarship**! Rank (1/69)!
 - *2024.12*: &nbsp;🎉🎉 I have supported by the National Natural Science Foundation of China, 国家自然科学基金青年学生基础研究项目(博士研究生): **2D/3D Image and Graphics Alignment, Fusion, and Perception-Based Collaborative Interaction System** from 2025.01-2027.12!
 - *2024.08*: &nbsp;🎉🎉 I have supported by the Fundamental Research Funds for the Central Universities (哈尔滨工业大学点子基金): **Trusted multimodal alignment fusion and transmission** from 2024.08-2025.08!
 - *2024.07*: &nbsp;🎉🎉 Two collaborative papers have been accepted by **ACM MM (CCF-A)**, congratulation to Haonan! 
@@ -55,6 +56,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🎖 Selected Honors and Awards
+- 2024 **Bydauto Scholarship** for doctoral students **(1/69)**
 - 2023 China National Scholarship for doctoral students **(top 1.5%)**, Ministry of Education of the People's Republic of China.
 - Outstanding Communist Party of China in Harbin Institute of Technology, Faculty of Computing, Harbin Institute of Technology.
 - Outstanding Student of Faculty of Computing, Harbin Institute of Technology.
