@@ -57,7 +57,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 # 🎖 Selected Honors and Awards
 - 2024 **Bydauto Scholarship** for doctoral students **(1/69)**
-- 2023 China National Scholarship for doctoral students **(top 1.5%)**, Ministry of Education of the People's Republic of China.
+- 2023 **China National Scholarship** for doctoral students **(top 1.5%)**, Ministry of Education of the People's Republic of China.
 - Outstanding Communist Party of China in Harbin Institute of Technology, Faculty of Computing, Harbin Institute of Technology.
 - Outstanding Student of Faculty of Computing, Harbin Institute of Technology.
 - 2021 Outstanding Graduates of University of Electronic Science and Technology of China.
