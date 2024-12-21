@@ -23,6 +23,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One collaborative paper have been accepted by **ICASSP (CCF-B)**, congratulation to Yuchuan! 
 - *2024.12*: &nbsp;🎉🎉 One collaborative paper have been accepted by **AAAI (CCF-A)**, congratulation to Jisheng! 
 - *2024.12*: &nbsp;🎉🎉 Two papers have been accepted by **AAAI (CCF-A)** as first author! 
 - *2024.12*: &nbsp;🎉🎉 I have received the **Bydauto Scholarship**! Rank (1/69)!
@@ -55,9 +56,10 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 15. Jisheng Chu, **Wenrui Li**, Xingtao Wang, Ning Kanglin, Yidan Lu and Xiaopeng Fan. "Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion", in AAAI, 2025.
 16. **Wenrui Li**, Jifei Miao and Guanghui Cheng. "A Jacobi-Like Algorithm for the General Joint Diagonalization Problem with Its Application to Blind Source Separation," 12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics, 2019.
 17. M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang. 2024. “SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition,” 2024, in IEEE International Conference on Multimedia and Expo.
-18. Jifei Miao, Guanghui Cheng, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” Neurocomputing, 2019.
-19. Jifei Miao, Guanghui Cheng, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” Numerical Linear Algebra with Applications, 2020.
-20. Guanghui Cheng, Jifei Miao, **Wenrui Li**, “Two Jacobi-like algorithms for the general joint diagonalization problem with applications to blind source separation,” Chinese Journal of Electronics, doi: 10.23919/cje.2019.00.102, 2022.
+18. Yuchuan Feng, Jihang Jiang, Jie Ren, Ruotong Li*, **Wenrui Li** and Xiaopeng Fan. "Text-Guided Editable 3D City Scene Generation," 2025, in IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+19. Jifei Miao, Guanghui Cheng, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” Neurocomputing, 2019.
+20. Jifei Miao, Guanghui Cheng, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” Numerical Linear Algebra with Applications, 2020.
+21. Guanghui Cheng, Jifei Miao, **Wenrui Li**, “Two Jacobi-like algorithms for the general joint diagonalization problem with applications to blind source separation,” Chinese Journal of Electronics, doi: 10.23919/cje.2019.00.102, 2022.
 
 
 # 🎖 Selected Honors and Awards
