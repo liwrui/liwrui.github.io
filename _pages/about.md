@@ -41,9 +41,9 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 - *2024.03*: &nbsp;🎉🎉 One paper (SMILE: spiking multi-modal interactive label-guided enhancement network for emotion recognition) has been accepted by **IEEE ICME (CCF-B)**, congratulation to Ming Guo! 
 - *2024.02*: &nbsp;🎉🎉 One paper (Multi-Scale Spiking Pyramid Wireless Communication Framework for Food Recognition) has been accepted by **IEEE TMM** as first author! 
 - *2023.10*: &nbsp;🎉🎉 I have received the 2023 China National Scholarship for doctoral students **(top 1.5%)**! (23/10/2023)
-- *2023.08*: &nbsp;🎉🎉 Two papers have been accepted by **ACM MM (CCF-A)** as first author! 
+- *2023.08*: &nbsp;🎉🎉 Two papers have been accepted by **ACM MM (CCF-A)** as first author!
 
-# 📝 Publications (#Corresponding Author)
+# 📝 Publications (#Corresponding Author,*equal contribution)
 - *First Autor or Corresponding Author*
 1. **Wenrui Li**, Penghong Wang, Ruiqin xiong and Xiaopeng Fan<sup>#</sup>. “Spiking Tucker Fusion Transformer for Audio-Visual Zero-Shot Learning” **IEEE Transactions on Image Processing**. (IEEE TIP)
 2. **Wenrui Li**, Ruiqin Xiong and Xiaopeng Fan<sup>#</sup>. " Multi-layer Probabilistic Association Reasoning Network for Image-Text Retrieval" in **IEEE Transactions on Circuits and Systems for Video Technology** (IEEE TCSVT)
@@ -54,7 +54,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 7. **Wenrui Li**, Wei Han, Yandu Chen, Yeyu Chai, Yidan Lu, Xingtao Wang<sup>#</sup> and Xiaopeng Fan. "Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval", in **AAAI**, 2025.
 8. **Wenrui Li**, Zhengyu Ma<sup>#</sup>, LiangJian Deng, Penghong Wang, Jinqiao Shi and Xiaopeng Fan<sup>#</sup>. “Reservoir Computing Transformer for Image Text Retrieval,” in **ACM International Conference on Multimedia** (ACM MM), Ottawa, Canada, 2023.
 9. **Wenrui Li**, XiLe Zhao, Zhengyu Ma<sup>#</sup>, Xingtao Wang, Xiaopeng Fan<sup>#</sup> and Yonghong Tian. “Motion Decoupled Spiking Transformer for Audio Visual Zero-Shot Learning,” in **ACM International Conference on Multimedia** (ACM MM), Ottawa, Canada, 2023.
-10. RunLin Yu, Yipu Gong, "Wenrui Li<sup>#</sup>", Aiwen Sun, Mengren Zheng, "Discrepancy-Aware Attention Network for Enhanced Audio-Visual Zero-Shot Learning", in **ACM International Conference on Multimedia** (ACM MM), Ottawa, Canada, 2025.
+10. RunLin Yu*, Yipu Gong*, "Wenrui Li<sup>#</sup>", Aiwen Sun, Mengren Zheng, "Discrepancy-Aware Attention Network for Enhanced Audio-Visual Zero-Shot Learning", in **ACM International Conference on Multimedia** (ACM MM), Ottawa, Canada, 2025.
 11. **Wenrui Li**, Zhengyu Ma, Jinqiao Shi<sup>#</sup> and Xiaopeng Fan. “The style transformer with common knowledge optimization for image text retrieval,” in **IEEE Signal Processing Letter** (SPL), 2023.
 12. **Wenrui Li**, Zhengyu Ma, LiangJian Deng and Xiaopeng Fan<sup>#</sup>. “Modality Fusion Spiking Transformer Network for AudioVisual Zero Shot Learning,” in **IEEE International Conference on Multimedia and Expo** (ICME), Oral, Brisbane, Australia, 2023.
 13. **Wenrui Li** and Xiaopeng Fan<sup>#</sup>. “Image-Text Alignment and Retrieval Using Light-Weight Transformer”, **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP), 2022.
