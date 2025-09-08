@@ -23,6 +23,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 My project “Lingjing Construction” — a Digital Twin 3D Virtual Content Industrialization Project （灵境构筑”数字孪生三维虚拟内容产业化项目） has been successfully approved and funded under the Entrepreneurship-Driven Innovative Talent Support Program of the Harbin Institute of Technology, Suzhou Research Institute. （“创业驱动的创新人才托举工程”专项计划）
 - *2025.08*: &nbsp;🎉🎉 One paper have been accepted by **IEEE Transactions on Image Processing** as first author! 
 - *2025.08*: &nbsp;🎉🎉 One collaborative paper have been accepted by **IEEE Transactions on Audio, Speech and Language Processing** as corresponding author, congratulation to Zhe Yang! 
 - *2025.07*: &nbsp;🎉🎉 One collaborative paper have been accepted by **ACM MM 2025 (CCF-A)** as corresponding author, congratulation to Runlin and Yipu! 
@@ -90,6 +91,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 # 📕 Projects
 - **Project Leader**: 2D/3D Image and Graphics Alignment, Fusion, and Perception-Based Collaborative Interaction System supported by National Natural Science Foundation of China, 2025.01-2027.12, 国家自然科学基金青年学生基础研究项目(博士研究生).
+- **Project Leader**: “Lingjing Construction” — a Digital Twin 3D Virtual Content Industrialization Project （灵境构筑”数字孪生三维虚拟内容产业化项目） supported by Entrepreneurship-Driven Innovative Talent Support Program of the Harbin Institute of Technology, Suzhou Research Institute. （“创业驱动的创新人才托举工程”专项计划）.
 - **Project Leader**: Trusted multimodal alignment fusion and transmission supported by Fundamental Research Funds for the Central Universities, 2024.08-2025.08, 哈尔滨工业大学点子基金. 
  
 # 💻 Internships
