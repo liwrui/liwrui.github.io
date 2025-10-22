@@ -23,6 +23,8 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🔥 News
+.
+- *2025.10*: &nbsp;🎉🎉 I was selected as one of the “Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才） 
 - *2025.10*: &nbsp;🎉🎉 I have received the 2025 China National Scholarship for doctoral students! 
 - *2025.10*: &nbsp;🎉🎉I have received the Baosteel Outstanding Student Scholarship （宝钢优秀学生奖学金，全校仅六人）
 - *2025.09*: &nbsp;🎉🎉 My project “Lingjing Construction” — a Digital Twin 3D Virtual Content Industrialization Project （灵境构筑”数字孪生三维虚拟内容产业化项目） has been successfully approved and funded under the Entrepreneurship-Driven Innovative Talent Support Program of the Harbin Institute of Technology, Suzhou Research Institute. （“创业驱动的创新人才托举工程”专项计划）
@@ -79,6 +81,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🎖 Selected Honors and Awards
+- “Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才）
 - 2025 **China National Scholarship** for doctoral students **(top 1.5%)**, Ministry of Education of the People's Republic of China.
 - 2024 **Baosteel Outstanding Student Scholarship** （宝钢优秀学生奖学金，全校仅六人）
 - 2024 **Bydauto Scholarship** for doctoral students **(1/69)**
