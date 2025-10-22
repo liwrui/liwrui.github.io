@@ -23,7 +23,6 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🔥 News
-.
 - *2025.10*: &nbsp;🎉🎉 I was selected as one of the “Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才） 
 - *2025.10*: &nbsp;🎉🎉 I have received the 2025 China National Scholarship for doctoral students! 
 - *2025.10*: &nbsp;🎉🎉I have received the Baosteel Outstanding Student Scholarship （宝钢优秀学生奖学金，全校仅六人）
