@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenrui Li received the B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021. He is currently pursuing the Ph.D. degree supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan) with the School of Computer Science, Harbin Institute of Technology (HIT), Harbin, China. He also studied as visiting student in Pengcheng Laboratory in 2022, supervised by [Prof. Yonghong Tian](https://www.pkuml.org/staff/yhtian-cn.html). He has authored or co-authored more than 20 technical papers in refereed international journals and conferences. His research interests include multimedia search, joint source-channel coding, spiking neural networks and Embodied AI. He also serves as a reviewer for IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, IEEE TRANSACTIONS ON MULTIMEDIA, NeurIPS, ECCV, AAAI, and ACM MM. 
+Wenrui Li received the B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021. He is currently pursuing the Ph.D. degree supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan) with the School of Computer Science, Harbin Institute of Technology (HIT), Harbin, China. He also studied as visiting student in Pengcheng Laboratory in 2022, supervised by [Prof. Yonghong Tian](https://www.pkuml.org/staff/yhtian-cn.html). He has authored or co-authored more than 30 technical papers in refereed international journals and conferences. His research interests include multimedia search, joint source-channel coding, spiking neural networks and Embodied AI. He also serves as a reviewer for IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, IEEE TRANSACTIONS ON MULTIMEDIA, NeurIPS, ECCV, AAAI, and ACM MM. 
 
 **<font color='red'>I am now actively looking for academic opportunities in 2025, If you are interested, please do not hesitate to drop me an email. Thank you! </font>**
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI (CCF-A)** as co-first author, and was selected as Oral! Congratulations to Yidan!
+- *2025.11*: &nbsp;🎉🎉 Two collaborative papers have been accepted by **AAAI (CCF-A)**, congratulations to Zhitao and Han! 
 - *2025.10*: &nbsp;🎉🎉 I was selected as one of the “Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才） 
 - *2025.10*: &nbsp;🎉🎉 I have received the 2025 China National Scholarship for doctoral students! 
 - *2025.10*: &nbsp;🎉🎉I have received the Baosteel Outstanding Student Scholarship （宝钢优秀学生奖学金，全校仅六人）
