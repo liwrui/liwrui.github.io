@@ -69,23 +69,22 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 16. **Wenrui Li** and Xiaopeng Fan<sup>#</sup>. “Image-Text Alignment and Retrieval Using Light-Weight Transformer”, **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP), 2022.
 17. Zhe Yang, **Wenrui Li<sup>#</sup>**, Jingxiu Hou and Guanghui Cheng<sup>#</sup>. Multi-Modal Spiking Tensor Regression Network for Audio-Visual Zero-Shot Learning, **Neurocomputing**, 2025.
 18. Jinyu Guo, Yuejia Li, Guanghui Cheng<sup>#</sup> and **Wenrui Li<sup>#</sup>**. Based-CLIP early fusion transformer for image caption. **Signal, Image and Video Processing**, 19, 112 (2025). https://doi.org/10.1007/s11760-024-03721-0.
-19. Xingtao Wang, Kaixin Wu, Jinyu Zhang, Yuxuan Wang and **Wenrui Li**. "PanoExtend: An omnidirectional image super-resolution method based on spherical expansion", in ACM MM Asia Workshop, 2026.
+19. Xingtao Wang, Kaixin Wu, Jinyu Zhang, Yuxuan Wang and **Wenrui Li\***. "PanoExtend: An omnidirectional image super-resolution method based on spherical expansion", in ACM MM Asia Workshop, 2026.
 20. **Wenrui Li**, Jifei Miao and Guanghui Cheng<sup>#</sup>. "A Jacobi-Like Algorithm for the General Joint Diagonalization Problem with Its Application to Blind Source Separation," **12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics**, 2019.
-21. Jisheng Chu, **Wenrui Li**, Xingtao Wang<sup>#</sup>, Ning Kanglin, Yidan Lu and Xiaopeng Fan. "Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion", in **AAAI**, 2025.
-22. Zhitao Wang, Hengyu Man<sup>#</sup>, **Wenrui Li**, Xingtao Wang, Xiaopeng Fan, Debin Zhao. "T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates", in **AAAI**, 2026.
-23. Han Liu, Hengyu Man<sup>#</sup>, Xingtao Wang, **Wenrui Li**, Debin Zhao. "MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression", in **AAAI**, 2026.
-24. Haonan Zheng, Xinyang Deng<sup>#</sup>, Wen Jiang, and **Wenrui Li**, “A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models” in **ACM International Conference on Multimedia**, 2024.
-25. Haonan Zheng, Wen Jiang<sup>#</sup>, Xinyang Deng and **Wenrui Li**, “Sample-agnostic Adversarial Perturbation for Vision-Language Pre-training Models”, in **ACM International Conference on Multimedia**, 2024.
-26. P. Wang, X. Wang, **W. Li**, X. Fan<sup>#</sup> and D. Zhao. 2024. “DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT” in **IEEE Internet of Things Journal** (IEEE IoTJ),doi: 10.1109/ JIOT.2024.3404492.
-27. Rui Zhao, Jiyuan Zhang, Yanchen Dong, **Wenrui Li** and Yajing Zheng<sup>#</sup>, "Spike Camera Image Reconstruction Based on an Efficient Spiking Transformer", in ACM MM Asia Workshop, 2026.
-28. M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang<sup>#</sup>. 2024. “SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition,” 2024, in **IEEE International Conference on Multimedia and Expo**.
-29. Yuchuan Feng, Jihang Jiang, Jie Ren, Ruotong Li<sup>#</sup>, **Wenrui Li** and Xiaopeng Fan. "Text-Guided Editable 3D City Scene Generation," 2025, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
-30. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” **Neurocomputing**, 2019.
-31. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” **Numerical Linear Algebra with Applications**, 2020.
-32. Guanghui Cheng<sup>#</sup>, Jifei Miao, **Wenrui Li**, “Two Jacobi-like algorithms for the general joint diagonalization problem with applications to blind source separation,” **Chinese Journal of Electronics**, doi: 10.23919/cje.2019.00.102, 2022.
-
 - *Collaborative Paper*
-- 
+22. Jisheng Chu, **Wenrui Li**, Xingtao Wang<sup>#</sup>, Ning Kanglin, Yidan Lu and Xiaopeng Fan. "Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion", in **AAAI**, 2025.
+23. Zhitao Wang, Hengyu Man<sup>#</sup>, **Wenrui Li**, Xingtao Wang, Xiaopeng Fan, Debin Zhao. "T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates", in **AAAI**, 2026.
+24. Han Liu, Hengyu Man<sup>#</sup>, Xingtao Wang, **Wenrui Li**, Debin Zhao. "MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression", in **AAAI**, 2026.
+25. Haonan Zheng, Xinyang Deng<sup>#</sup>, Wen Jiang, and **Wenrui Li**, “A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models” in **ACM International Conference on Multimedia**, 2024.
+26. Haonan Zheng, Wen Jiang<sup>#</sup>, Xinyang Deng and **Wenrui Li**, “Sample-agnostic Adversarial Perturbation for Vision-Language Pre-training Models”, in **ACM International Conference on Multimedia**, 2024.
+27. P. Wang, X. Wang, **W. Li**, X. Fan<sup>#</sup> and D. Zhao. 2024. “DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT” in **IEEE Internet of Things Journal** (IEEE IoTJ),doi: 10.1109/ JIOT.2024.3404492.
+28. Rui Zhao, Jiyuan Zhang, Yanchen Dong, **Wenrui Li** and Yajing Zheng<sup>#</sup>, "Spike Camera Image Reconstruction Based on an Efficient Spiking Transformer", in ACM MM Asia Workshop, 2026.
+29. M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang<sup>#</sup>. 2024. “SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition,” 2024, in **IEEE International Conference on Multimedia and Expo**.
+30. Yuchuan Feng, Jihang Jiang, Jie Ren, Ruotong Li<sup>#</sup>, **Wenrui Li** and Xiaopeng Fan. "Text-Guided Editable 3D City Scene Generation," 2025, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
+31. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” **Neurocomputing**, 2019.
+32. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” **Numerical Linear Algebra with Applications**, 2020.
+33. Guanghui Cheng<sup>#</sup>, Jifei Miao, **Wenrui Li**, “Two Jacobi-like algorithms for the general joint diagonalization problem with applications to blind source separation,” **Chinese Journal of Electronics**, doi: 10.23919/cje.2019.00.102, 2022.
+
 # 🎖 Selected Honors and Awards
 - “Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才）
 - 2025 **China National Scholarship** for doctoral students **(top 1.5%)**, Ministry of Education of the People's Republic of China.
