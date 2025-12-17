@@ -23,6 +23,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our project “Fairness & Openness: Leading a New Era of Full-Scenario Smart Examination Environments,” (公平·开放:引领全场景智慧考场新时代) won the National Grand Prize (Special Prize) at the 10th National Youth AI Innovation & Entrepreneurship Competition! (第十届全国青年人工智能创新创业大会全国特等奖)
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **IEEE TPAMI (CCF-A)** as first author! Congratulations to Wei!
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI (CCF-A)** as co-first author, and was selected as Oral! Congratulations to Yidan!
 - *2025.11*: &nbsp;🎉🎉 Two collaborative papers have been accepted by **AAAI (CCF-A)**, congratulations to Zhitao and Han! 
