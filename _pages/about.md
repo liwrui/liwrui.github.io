@@ -90,6 +90,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 # 🎖 Selected Honors and Awards
 - “Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才）
+- National Grand Prize (Special Prize) of 10th National Youth AI Innovation & Entrepreneurship Competition (第十届全国青年人工智能创新创业大会全国特等奖)
 - 2025 **China National Scholarship** for doctoral students **(top 1.5%)**, Ministry of Education of the People's Republic of China.
 - 2024 **Baosteel Outstanding Student Scholarship** （宝钢优秀学生奖学金，全校仅六人）
 - 2024 **Bydauto Scholarship** for doctoral students **(1/69)**
