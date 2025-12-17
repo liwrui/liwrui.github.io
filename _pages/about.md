@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenrui Li received the B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021. He is currently pursuing the Ph.D. degree supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan) with the School of Computer Science, Harbin Institute of Technology (HIT), Harbin, China. He also studied as visiting student in Pengcheng Laboratory in 2022, supervised by [Prof. Yonghong Tian](https://www.pkuml.org/staff/yhtian-cn.html). He has authored or co-authored more than 30 technical papers in refereed international journals and conferences. His research interests include multimedia search, joint source-channel coding, spiking neural networks and Embodied AI. He also serves as a reviewer for IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, IEEE TRANSACTIONS ON MULTIMEDIA, NeurIPS, ECCV, AAAI, and ACM MM. 
+Wenrui Li received the B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021. He will receive the Ph.D. degree in 2025.12, supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan) with the School of Computer Science, Harbin Institute of Technology (HIT), Harbin, China. He also studied as a visiting student in Pengcheng Laboratory in 2022, supervised by [Prof. Yonghong Tian](https://www.pkuml.org/staff/yhtian-cn.html). He has authored or co-authored more than 30 technical papers in refereed international journals and conferences. His research interests include multimedia search, joint source-channel coding, spiking neural networks and Embodied AI. He also serves as a reviewer for IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, IEEE TRANSACTIONS ON MULTIMEDIA, NeurIPS, ECCV, AAAI, and ACM MM. 
 
-**<font color='red'>I am now actively looking for academic opportunities in 2025, If you are interested, please do not hesitate to drop me an email. Thank you! </font>**
+**<font color='red'>I will soon join the School of Computing at Harbin Institute of Technology as an Associate Professor and Ph.D. supervisor.</font>**
+
+**<font color='red'>Self-motivated students are welcome to join my research group. Please feel free to contact me!</font>**
 
 
 # 🔥 News
