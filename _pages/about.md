@@ -86,7 +86,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 30. Yuchuan Feng, Jihang Jiang, Jie Ren, Ruotong Li<sup>#</sup>, **Wenrui Li** and Xiaopeng Fan. "Text-Guided Editable 3D City Scene Generation," 2025, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
 31. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” **Neurocomputing**, 2019.
 32. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” **Numerical Linear Algebra with Applications**, 2020.
-33. Guanghui Cheng<sup>#</sup>, Jifei Miao, **Wenrui Li**, “Two Jacobi-like algorithms for the general joint diagonalization problem with applications to blind source separation,” **Chinese Journal of Electronics**, doi: 10.23919/cje.2019.00.102, 2022.
+
 
 # 🎖 Selected Honors and Awards
 - “Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才）
