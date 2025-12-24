@@ -23,11 +23,13 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Our project “Fairness & Openness: Leading a New Era of Full-Scenario Smart Examination Environments,” (公平·开放:引领全场景智慧考场新时代) won the National Grand Prize (Special Prize) at the 10th National Youth AI Innovation & Entrepreneurship Competition! (第十届全国青年人工智能创新创业大会全国特等奖)
-- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **IEEE TPAMI (CCF-A)** as first author! Congratulations to Wei!
+- *2025.12*: &nbsp;🎉🎉 I have successfully passed my PhD thesis defense, and my dissertation was awarded the Harbin Institute of Technology Outstanding Doctoral Dissertation Award. (哈尔滨工业大学优秀博士学位论文)
+- *2025.12*: &nbsp;🎉🎉 As a project leader among the first cohort of “Chuang Class” students, I participated in and co-launched Harbin Institute of Technology’s inaugural [“Innovation-Driven Talent Support Program” special class.]https://mp.weixin.qq.com/s/z-MulXG3p6SZ26hrXIuwCw）
+- *2025.12*: &nbsp;🎉🎉 Our project [“Fairness & Openness: Leading a New Era of Full-Scenario Smart Examination Environments,” (公平·开放:引领全场景智慧考场新时代)](https://mp.weixin.qq.com/s/rSUuTRBvW89p9a-KLKPilQ) won the National Grand Prize (Special Prize) at the 10th National Youth AI Innovation & Entrepreneurship Competition! (第十届全国青年人工智能创新创业大会全国特等奖)
+- *2025.11*: &nbsp;🎉🎉 [One paper](https://mp.weixin.qq.com/s/bGpXk_QCzBdXAGt-uJwv_w?scene=1&click_id=4) has been accepted by **IEEE TPAMI (CCF-A)** as first author! Congratulations to Wei!
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI (CCF-A)** as co-first author, and was selected as Oral! Congratulations to Yidan!
 - *2025.11*: &nbsp;🎉🎉 Two collaborative papers have been accepted by **AAAI (CCF-A)**, congratulations to Zhitao and Han! 
-- *2025.10*: &nbsp;🎉🎉 I was selected as one of the “Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才） 
+- *2025.10*: &nbsp;🎉🎉 I was selected as one of the [“Top 10 Outstanding Graduate Talents of Harbin Institute of Technology”（哈工大十佳英才）](https://mp.weixin.qq.com/s/kPI71p_8y5t1Ox8MnUag8w) 
 - *2025.10*: &nbsp;🎉🎉 I have received the 2025 China National Scholarship for doctoral students! 
 - *2025.10*: &nbsp;🎉🎉I have received the Baosteel Outstanding Student Scholarship （宝钢优秀学生奖学金，全校仅六人）
 - *2025.09*: &nbsp;🎉🎉 My project “Lingjing Construction” — a Digital Twin 3D Virtual Content Industrialization Project （灵境构筑”数字孪生三维虚拟内容产业化项目） has been successfully approved and funded under the Entrepreneurship-Driven Innovative Talent Support Program of the Harbin Institute of Technology, Suzhou Research Institute. （“创业驱动的创新人才托举工程”专项计划）
