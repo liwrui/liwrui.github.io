@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Wenrui Li received the B.S. degree from the School of Information and Software Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021. He will receive the Ph.D. degree in 2025.12, supervised by [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan) with the School of Computer Science, Harbin Institute of Technology (HIT), Harbin, China. He also studied as a visiting student in Pengcheng Laboratory in 2022, supervised by [Prof. Yonghong Tian](https://www.pkuml.org/staff/yhtian-cn.html). He has authored or co-authored more than 30 technical papers in refereed international journals and conferences. His research interests include multimedia search, joint source-channel coding, spiking neural networks and Embodied AI. He also serves as a reviewer for IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, IEEE TRANSACTIONS ON MULTIMEDIA, NeurIPS, ECCV, AAAI, and ACM MM. 
+Wenrui Li received the Ph.D. degree in Computer Science and Technology from HIT in Dec. 2025 under the supervision of [Prof. Xiaopeng Fan](http://homepage.hit.edu.cn/xiaopengfan), and the B.S. degree in Digital Signal Processing from the University of Electronic Science and Technology of China (UESTC) in 2021. Wenrui Li is also a postdoctoral researcher at the School of Astronautics, Harbin Institute of Technology (HIT), working with Prof. [Ligang Wu](https://homepage.hit.edu.cn/wuligang). He was a visiting student at Peng Cheng Laboratory (2022–2023) and the Peking University Shenzhen Graduate School (2023–2024), supervised by [Prof. Yonghong Tian](https://www.pkuml.org/staff/yhtian-cn.html). 
+
+His research interests include multimodal joint learning and retrieval, embodied AI, semantic communications and joint source–channel coding, spiking neural networks, and AI for Science. He has published 30+ refereed papers, including first-author/corresponding works in IEEE TPAMI, TIP, TCSVT, TMM, and TASL, as well as top venues such as ACM MM and AAAI. He leads multiple research projects, including an NSFC Youth Student Basic Research Program (Doctoral Student) project on 2D/3D alignment and perception–interaction systems, and has also participated in national key R&D and industry–university collaborations. He has received several honors and scholarships, such as the HIT “Top Ten Outstanding Graduate Students” award, the Baosteel Scholarship, National Scholarships for Ph.D. students, and the BYD Scholarship. He serves as a reviewer for IEEE TIP, IEEE TCSVT, IEEE TMM, The Journal of Supercomputing, and conferences including CVPR, NeurIPS, AAAI, and ACM MM. 
+
 
 **<font color='red'>Self-motivated students are welcome to join [Prof. Fan's](http://homepage.hit.edu.cn/xiaopengfan) research group. Please feel free to contact me!</font>**
 
@@ -104,7 +107,7 @@ Wenrui Li received the B.S. degree from the School of Information and Software E
 - 2021 Meritorious Winner **(winning ratio 7.09%)** in Mathematical Contest In Modeling, the COMAP of American.
 
 # 📖 Educations
-- *2021.09 - 2025.12 (expected)*, Harbin institute of technology, Doctor of Philosophy.
+- *2021.09 - 2025.12*, Harbin institute of technology, Doctor of Philosophy.
 - *2017.09 - 2021.06*, University of Electronic Science and Technology of China, Bachelor. 
 
 # 📕 Projects
