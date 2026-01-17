@@ -27,6 +27,7 @@ Email:liwr@hit.edu.cn/liwr618@163.com
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 I’ve been selected as the Session Chair for AAAI 2026 (Singapore) — CV: Image and Video Retrieval 2, Sat, Jan 24, 9:30 AM. Welcome to stop by and say hi!
 - *2025.12*: &nbsp;🎉🎉 I have successfully passed my PhD thesis defense, and my dissertation was awarded the Harbin Institute of Technology Outstanding Doctoral Dissertation Award. (哈尔滨工业大学优秀博士学位论文)
 - *2025.12*: &nbsp;🎉🎉 As a project leader among the first cohort of “Chuang Class” students, I participated in and co-launched Harbin Institute of Technology’s inaugural [“Innovation-Driven Talent Support Program” special class](https://mp.weixin.qq.com/s/z-MulXG3p6SZ26hrXIuwCw)
 - *2025.12*: &nbsp;🎉🎉 Our project [“Fairness & Openness: Leading a New Era of Full-Scenario Smart Examination Environments,” (公平·开放:引领全场景智慧考场新时代)](https://mp.weixin.qq.com/s/rSUuTRBvW89p9a-KLKPilQ) won the National Grand Prize (Special Prize) at the 10th National Youth AI Innovation & Entrepreneurship Competition! (第十届全国青年人工智能创新创业大会全国特等奖)
