@@ -24,7 +24,7 @@ Email:liwr@hit.edu.cn/liwr618@163.com
 **<font color='red'>Self-motivated students are welcome to join my research group (working closely with Prof. Xiaopeng Fan). Please feel free to contact me.</font>**
 
 [填写问卷](https://v.wjx.cn/vm/QxVPs5e.aspx)
-
+[中文主页](https://homepage.hit.edu.cn/liwenrui?lang=zh)
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Three papers have been accepted by **ICASSP (CCF-B)**, with two as corresponding author! Congratulations to Ziyu, Siteng and Jianxiang!
