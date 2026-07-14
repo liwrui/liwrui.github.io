@@ -27,6 +27,7 @@ Email:liwr@hit.edu.cn/liwr618@163.com
 [中文主页](https://homepage.hit.edu.cn/liwenrui?lang=zh)
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper has been accepted by **ACM MM-26 (CCF-A)** as corresponding author! Congratulations to Yeyu!
 - *2026.06*: &nbsp;🎉🎉 One collaborative paper has been accepted by **IEEE TMM (CCF-A)**! Congratulations to Yuqian!
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by **IEEE TIP (CCF-A)** as first author! Congratulations to Yeyu!
 - *2026.05*: &nbsp;🎉🎉 One collaborative paper has been accepted by **IEEE TMC (CCF-A)**! Congratulations to Penghong!
@@ -82,37 +83,38 @@ Email:liwr@hit.edu.cn/liwr618@163.com
 12. **Wenrui Li**, Wei Han, Yandu Chen, Yeyu Chai, Yidan Lu, Xingtao Wang<sup>#</sup> and Xiaopeng Fan. "Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval", in **AAAI**, 2025.
 13. **Wenrui Li**, Zhengyu Ma<sup>#</sup>, LiangJian Deng, Penghong Wang, Jinqiao Shi and Xiaopeng Fan<sup>#</sup>. “Reservoir Computing Transformer for Image Text Retrieval,” in **ACM International Conference on Multimedia** (ACM MM), Ottawa, Canada, 2023.
 14. **Wenrui Li**, XiLe Zhao, Zhengyu Ma<sup>#</sup>, Xingtao Wang, Xiaopeng Fan<sup>#</sup> and Yonghong Tian. “Motion Decoupled Spiking Transformer for Audio Visual Zero-Shot Learning,” in **ACM International Conference on Multimedia** (ACM MM), Ottawa, Canada, 2023.
-15. RunLin Yu*, Yipu Gong*, Wenrui Li<sup>#</sup>, Aiwen Sun, Mengren Zheng, "Discrepancy-Aware Attention Network for Enhanced Audio-Visual Zero-Shot Learning", in **ACM International Conference on Multimedia** (ACM MM), 2025.
-16. Zhe Yang, **Wenrui Li<sup>#</sup>** and Guanghui Cheng<sup>#</sup>. “SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering”, **IEEE Transactions on Audio, Speech and Language Processing** (T-ASL), 2025.
-17. **Wenrui Li**, Zhengyu Ma, Jinqiao Shi<sup>#</sup> and Xiaopeng Fan. “The style transformer with common knowledge optimization for image text retrieval,” in **IEEE Signal Processing Letter** (SPL), 2023.
-18. **Wenrui Li**, Zhengyu Ma, LiangJian Deng and Xiaopeng Fan<sup>#</sup>. “Modality Fusion Spiking Transformer Network for AudioVisual Zero Shot Learning,” in **IEEE International Conference on Multimedia and Expo** (ICME), Oral, Brisbane, Australia, 2023.
-19. **Wenrui Li** and Xiaopeng Fan<sup>#</sup>. “Image-Text Alignment and Retrieval Using Light-Weight Transformer”, **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP), 2022.
-20. Siteng Ma, Xiaoyu Niu, Haocheng Tang, Zhe Yang, Jisheng Chu and **Wenrui Li**<sup>#</sup>, "Fusion-regularized Alignment Modality-adaptive Audio-Visual Network  for Audio-Visual Zero-Shot Learning", **Neurocomputing**, 2026.
-21. Zhe Yang, **Wenrui Li<sup>#</sup>**, Jingxiu Hou and Guanghui Cheng<sup>#</sup>. Multi-Modal Spiking Tensor Regression Network for Audio-Visual Zero-Shot Learning, **Neurocomputing**, 2025.
-22. Dan Xu\*, Jinyu Zhang\*, **Wenrui Li<sup>#</sup>**, Xingtao Wang, Penghong Wang and Xiaopeng Fan. HAFNet: Hybrid Attention Fusion Network for Remote Sensing Pansharpening, Remote Sensing. 2026; 18(3):526. 
-23. Jinyu Guo, Yuejia Li, Guanghui Cheng<sup>#</sup> and **Wenrui Li<sup>#</sup>**. Based-CLIP early fusion transformer for image caption. **Signal, Image and Video Processing**, 19, 112 (2025). https://doi.org/10.1007/s11760-024-03721-0.
-24. Siteng Ma, **Wenrui Li<sup>#</sup>**, Haocheng Tang, Yeyu Chai, Jisheng Chu and Xingtao Wang, "Semantic-Guided Pseudo-Feature Attention Network For Audio-Visual Zero-Shot Learning",  **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP), 2026.
-25. Ziyu Wang, **Wenrui Li<sup>#</sup>**, Hongtao Chen, Jisheng Chu, Hengyu Man, Xiaopeng Fan, "SPIKING TEMPORAL-ENHANCED NETWORK FOR ZERO-SHOT AUDIO-VISUAL LEARNING", **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP), 2026.
-26. Xingtao Wang, Kaixin Wu, Jinyu Zhang, Yuxuan Wang and **Wenrui Li<sup>#</sup>**. "PanoExtend: An omnidirectional image super-resolution method based on spherical expansion", in ACM MM Asia Workshop, 2026.
-27. **Wenrui Li**, Jifei Miao and Guanghui Cheng<sup>#</sup>. "A Jacobi-Like Algorithm for the General Joint Diagonalization Problem with Its Application to Blind Source Separation," **12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics**, 2019.
+15. Yeyu Chai, Wei Han, Haoyu Zhuang, Rui Zhao, **Wenrui Li<sup>#</sup>**, Xiaopeng Fan , "Dynamic Masked Mixture-of-Experts with Sparse-Constrained Reinforcement Learning for Video Temporal Grounding", in **ACM International Conference on Multimedia** (ACM MM), 2026.
+16. RunLin Yu*, Yipu Gong*, **Wenrui Li<sup>#</sup>**, Aiwen Sun, Mengren Zheng, "Discrepancy-Aware Attention Network for Enhanced Audio-Visual Zero-Shot Learning", in **ACM International Conference on Multimedia** (ACM MM), 2025.
+17. Zhe Yang, **Wenrui Li<sup>#</sup>** and Guanghui Cheng<sup>#</sup>. “SHMamba: Structured Hyperbolic State Space Model for Audio-Visual Question Answering”, **IEEE Transactions on Audio, Speech and Language Processing** (T-ASL), 2025.
+18. **Wenrui Li**, Zhengyu Ma, Jinqiao Shi<sup>#</sup> and Xiaopeng Fan. “The style transformer with common knowledge optimization for image text retrieval,” in **IEEE Signal Processing Letter** (SPL), 2023.
+19. **Wenrui Li**, Zhengyu Ma, LiangJian Deng and Xiaopeng Fan<sup>#</sup>. “Modality Fusion Spiking Transformer Network for AudioVisual Zero Shot Learning,” in **IEEE International Conference on Multimedia and Expo** (ICME), Oral, Brisbane, Australia, 2023.
+20. **Wenrui Li** and Xiaopeng Fan<sup>#</sup>. “Image-Text Alignment and Retrieval Using Light-Weight Transformer”, **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP), 2022.
+21. Siteng Ma, Xiaoyu Niu, Haocheng Tang, Zhe Yang, Jisheng Chu and **Wenrui Li**<sup>#</sup>, "Fusion-regularized Alignment Modality-adaptive Audio-Visual Network  for Audio-Visual Zero-Shot Learning", **Neurocomputing**, 2026.
+22. Zhe Yang, **Wenrui Li<sup>#</sup>**, Jingxiu Hou and Guanghui Cheng<sup>#</sup>. Multi-Modal Spiking Tensor Regression Network for Audio-Visual Zero-Shot Learning, **Neurocomputing**, 2025.
+23. Dan Xu\*, Jinyu Zhang\*, **Wenrui Li<sup>#</sup>**, Xingtao Wang, Penghong Wang and Xiaopeng Fan. HAFNet: Hybrid Attention Fusion Network for Remote Sensing Pansharpening, Remote Sensing. 2026; 18(3):526. 
+24. Jinyu Guo, Yuejia Li, Guanghui Cheng<sup>#</sup> and **Wenrui Li<sup>#</sup>**. Based-CLIP early fusion transformer for image caption. **Signal, Image and Video Processing**, 19, 112 (2025). https://doi.org/10.1007/s11760-024-03721-0.
+25. Siteng Ma, **Wenrui Li<sup>#</sup>**, Haocheng Tang, Yeyu Chai, Jisheng Chu and Xingtao Wang, "Semantic-Guided Pseudo-Feature Attention Network For Audio-Visual Zero-Shot Learning",  **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP), 2026.
+26. Ziyu Wang, **Wenrui Li<sup>#</sup>**, Hongtao Chen, Jisheng Chu, Hengyu Man, Xiaopeng Fan, "SPIKING TEMPORAL-ENHANCED NETWORK FOR ZERO-SHOT AUDIO-VISUAL LEARNING", **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP), 2026.
+27. Xingtao Wang, Kaixin Wu, Jinyu Zhang, Yuxuan Wang and **Wenrui Li<sup>#</sup>**. "PanoExtend: An omnidirectional image super-resolution method based on spherical expansion", in ACM MM Asia Workshop, 2026.
+28. **Wenrui Li**, Jifei Miao and Guanghui Cheng<sup>#</sup>. "A Jacobi-Like Algorithm for the General Joint Diagonalization Problem with Its Application to Blind Source Separation," **12th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics**, 2019.
 ——————————————————————————————————————————————————————————————
-28. Rui Zhao, **Wenrui Li**, Lin Zhu, Yajing Zheng, Weisi Lin. "Just Noticeable Difference Modeling for Deep Visual Features", in ICML, 2026.
-29. Yuqian Kuang, **Wenrui Li**, Hongwei Wei, Penghong Wang and Xiaopeng Fan. "Large Pretrained Models with Caption-Supervised Retrieval-Augmented Generation for Dense Video Captioning", in **IEEE TMM**, 2026.
-30. Penghong Wang, Hao Wang, **Wenrui Li**, Hengyu Man, Xin Yue, Xiaopeng Fan and Debin Zhao. "DV-Hop Localization Based on Probability Distance Estimation and Expected Hop Distance Correction", in **IEEE TMC**, 2026.
-31. Jisheng Chu, **Wenrui Li**, Xingtao Wang<sup>#</sup>, Ning Kanglin, Yidan Lu and Xiaopeng Fan. "Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion", in **AAAI**, 2025.
-32. Zhitao Wang, Hengyu Man<sup>#</sup>, **Wenrui Li**, Xingtao Wang, Xiaopeng Fan, Debin Zhao. "T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates", in **AAAI**, 2026.
-33. Han Liu, Hengyu Man<sup>#</sup>, Xingtao Wang, **Wenrui Li**, Debin Zhao. "MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression", in **AAAI**, 2026.
-34. Haonan Zheng, Xinyang Deng<sup>#</sup>, Wen Jiang, and **Wenrui Li**, “A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models” in **ACM International Conference on Multimedia**, 2024.
-35. Haonan Zheng, Wen Jiang<sup>#</sup>, Xinyang Deng and **Wenrui Li**, “Sample-agnostic Adversarial Perturbation for Vision-Language Pre-training Models”, in **ACM International Conference on Multimedia**, 2024.
-36. P. Wang, X. Wang, **W. Li**, X. Fan<sup>#</sup> and D. Zhao. 2024. “DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT” in **IEEE Internet of Things Journal** (IEEE IoTJ),doi: 10.1109/ JIOT.2024.3404492.
-37. Rui Zhao, Jiyuan Zhang, Yanchen Dong, **Wenrui Li** and Yajing Zheng<sup>#</sup>, "Spike Camera Image Reconstruction Based on an Efficient Spiking Transformer", in ACM MM Asia Workshop, 2026.
-38. Hao Wang, **Wenrui Li**, Penghong Wang, Xianqi Zhang and Xiaopeng Fan<sup>#</sup>, "Hierarchical Neural Skill-Based Meta-Reinforcement Learning for Efficient Adaptability in Robotic Manipulation Tasks", IEEE SPL, 2026.
-39. Kanglin Ning, Yiran Zhao, **Wenrui Li**, Shaoru Sun, Xingtao Wang, Xiaopeng Fan, "Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach",2026, in IEEE International Conference on Multimedia and Expo.
-40. M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang<sup>#</sup>. 2024. “SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition,” 2024, in **IEEE International Conference on Multimedia and Expo**.
-41. Yuchuan Feng, Jihang Jiang, Jie Ren, Ruotong Li<sup>#</sup>, **Wenrui Li** and Xiaopeng Fan. "Text-Guided Editable 3D City Scene Generation," 2025, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
-42. JianXiang Luo, Guanghui Cheng, Junyi Hu, **Wenrui Li**. "DYNAMICAL ISOMETRY BASED RIGOROUS FAIR NEURAL ARCHITECTURE SEARCH," 2026, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
-43. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” **Neurocomputing**, 2019.
-44. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” **Numerical Linear Algebra with Applications**, 2020.
+29. Rui Zhao, **Wenrui Li**, Lin Zhu, Yajing Zheng, Weisi Lin. "Just Noticeable Difference Modeling for Deep Visual Features", in ICML, 2026.
+30. Yuqian Kuang, **Wenrui Li**, Hongwei Wei, Penghong Wang and Xiaopeng Fan. "Large Pretrained Models with Caption-Supervised Retrieval-Augmented Generation for Dense Video Captioning", in **IEEE TMM**, 2026.
+31. Penghong Wang, Hao Wang, **Wenrui Li**, Hengyu Man, Xin Yue, Xiaopeng Fan and Debin Zhao. "DV-Hop Localization Based on Probability Distance Estimation and Expected Hop Distance Correction", in **IEEE TMC**, 2026.
+32. Jisheng Chu, **Wenrui Li**, Xingtao Wang<sup>#</sup>, Ning Kanglin, Yidan Lu and Xiaopeng Fan. "Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion", in **AAAI**, 2025.
+33. Zhitao Wang, Hengyu Man<sup>#</sup>, **Wenrui Li**, Xingtao Wang, Xiaopeng Fan, Debin Zhao. "T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates", in **AAAI**, 2026.
+34. Han Liu, Hengyu Man<sup>#</sup>, Xingtao Wang, **Wenrui Li**, Debin Zhao. "MRT: Learning Compact Representations with Mixed RWKV-Transformer for Extreme Image Compression", in **AAAI**, 2026.
+35. Haonan Zheng, Xinyang Deng<sup>#</sup>, Wen Jiang, and **Wenrui Li**, “A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models” in **ACM International Conference on Multimedia**, 2024.
+36. Haonan Zheng, Wen Jiang<sup>#</sup>, Xinyang Deng and **Wenrui Li**, “Sample-agnostic Adversarial Perturbation for Vision-Language Pre-training Models”, in **ACM International Conference on Multimedia**, 2024.
+37. P. Wang, X. Wang, **W. Li**, X. Fan<sup>#</sup> and D. Zhao. 2024. “DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT” in **IEEE Internet of Things Journal** (IEEE IoTJ),doi: 10.1109/ JIOT.2024.3404492.
+38. Rui Zhao, Jiyuan Zhang, Yanchen Dong, **Wenrui Li** and Yajing Zheng<sup>#</sup>, "Spike Camera Image Reconstruction Based on an Efficient Spiking Transformer", in ACM MM Asia Workshop, 2026.
+39. Hao Wang, **Wenrui Li**, Penghong Wang, Xianqi Zhang and Xiaopeng Fan<sup>#</sup>, "Hierarchical Neural Skill-Based Meta-Reinforcement Learning for Efficient Adaptability in Robotic Manipulation Tasks", IEEE SPL, 2026.
+40. Kanglin Ning, Yiran Zhao, **Wenrui Li**, Shaoru Sun, Xingtao Wang, Xiaopeng Fan, "Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach",2026, in IEEE International Conference on Multimedia and Expo.
+41. M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang<sup>#</sup>. 2024. “SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition,” 2024, in **IEEE International Conference on Multimedia and Expo**.
+42. Yuchuan Feng, Jihang Jiang, Jie Ren, Ruotong Li<sup>#</sup>, **Wenrui Li** and Xiaopeng Fan. "Text-Guided Editable 3D City Scene Generation," 2025, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
+43. JianXiang Luo, Guanghui Cheng, Junyi Hu, **Wenrui Li**. "DYNAMICAL ISOMETRY BASED RIGOROUS FAIR NEURAL ARCHITECTURE SEARCH," 2026, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
+44. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” **Neurocomputing**, 2019.
+45. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” **Numerical Linear Algebra with Applications**, 2020.
 
 
 # 🎖 Selected Honors and Awards
