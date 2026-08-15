@@ -27,7 +27,8 @@ Email:liwr@hit.edu.cn/liwr618@163.com
 [中文主页](https://homepage.hit.edu.cn/liwenrui?lang=zh)
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 One paper has been accepted by **IEEE TMM (CCF-A)** as first author! Congratulations to Hongtao!
+- *2026.08*: &nbsp;🎉🎉 One collaborative paper has been accepted by **IEEE JSTARS**! Congratulations to Dongjie!
+- *2026.07*: &nbsp;🎉🎉 One paper has been accepted by **IEEE TMM (CCF-A)** as first author! Congratulations to Hongtao!
 - *2026.07*: &nbsp;🎉🎉 One paper has been accepted by **ACM MM-26 (CCF-A)** as corresponding author! Congratulations to Yeyu!
 - *2026.06*: &nbsp;🎉🎉 One collaborative paper has been accepted by **IEEE TMM (CCF-A)**! Congratulations to Yuqian!
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by **IEEE TIP (CCF-A)** as first author! Congratulations to Yeyu!
@@ -111,12 +112,13 @@ Email:liwr@hit.edu.cn/liwr618@163.com
 38. P. Wang, X. Wang, **W. Li**, X. Fan<sup>#</sup> and D. Zhao. 2024. “DV-Hop Localization Based On Distance Estimation Using Multi-Node and Hop Loss in IoT” in **IEEE Internet of Things Journal** (IEEE IoTJ),doi: 10.1109/ JIOT.2024.3404492.
 39. Rui Zhao, Jiyuan Zhang, Yanchen Dong, **Wenrui Li** and Yajing Zheng<sup>#</sup>, "Spike Camera Image Reconstruction Based on an Efficient Spiking Transformer", in ACM MM Asia Workshop, 2026.
 40. Hao Wang, **Wenrui Li**, Penghong Wang, Xianqi Zhang and Xiaopeng Fan<sup>#</sup>, "Hierarchical Neural Skill-Based Meta-Reinforcement Learning for Efficient Adaptability in Robotic Manipulation Tasks", IEEE SPL, 2026.
-41. Kanglin Ning, Yiran Zhao, **Wenrui Li**, Shaoru Sun, Xingtao Wang, Xiaopeng Fan, "Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach",2026, in IEEE International Conference on Multimedia and Expo.
-42. M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang<sup>#</sup>. 2024. “SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition,” 2024, in **IEEE International Conference on Multimedia and Expo**.
-43. Yuchuan Feng, Jihang Jiang, Jie Ren, Ruotong Li<sup>#</sup>, **Wenrui Li** and Xiaopeng Fan. "Text-Guided Editable 3D City Scene Generation," 2025, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
-44. JianXiang Luo, Guanghui Cheng, Junyi Hu, **Wenrui Li**. "DYNAMICAL ISOMETRY BASED RIGOROUS FAIR NEURAL ARCHITECTURE SEARCH," 2026, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
-45. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” **Neurocomputing**, 2019.
-46. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” **Numerical Linear Algebra with Applications**, 2020.
+41. Dongjie Zhou，Chang Liu，Jiajun Zhu，**Wenrui Li** ，Yong Wang<sup>#</sup>，Xiaopeng Fan<sup>#</sup>, HymNet: A Hybrid Multi-Granularity Perception Network for Small Target Detection, IEEE JSTARS, 2026.
+42. Kanglin Ning, Yiran Zhao, **Wenrui Li**, Shaoru Sun, Xingtao Wang, Xiaopeng Fan, "Towards Accurate Single Panoramic 3D Detection: A Semantic Gaussian Centric Approach",2026, in IEEE International Conference on Multimedia and Expo.
+43. M. Guo, **W. Li**, C. Wang, Y. Ge and C. Wang<sup>#</sup>. 2024. “SMILE: Spiking Multi-modal Interactive Label-Guided Enhancement Network for Emotion Recognition,” 2024, in **IEEE International Conference on Multimedia and Expo**.
+44. Yuchuan Feng, Jihang Jiang, Jie Ren, Ruotong Li<sup>#</sup>, **Wenrui Li** and Xiaopeng Fan. "Text-Guided Editable 3D City Scene Generation," 2025, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
+45. JianXiang Luo, Guanghui Cheng, Junyi Hu, **Wenrui Li**. "DYNAMICAL ISOMETRY BASED RIGOROUS FAIR NEURAL ARCHITECTURE SEARCH," 2026, in **IEEE International Conference on Acoustics, Speech and Signal Processing** (ICASSP).
+46. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Gong Zhang. “Non-orthogonal approximate joint diagonalization of non-Hermitian matrices in the least-squares sense,” **Neurocomputing**, 2019.
+47. Jifei Miao, Guanghui Cheng<sup>#</sup>, **Wenrui Li** and Eric Moreau. “A unitary joint diagonalization algorithm for nonsymmetric higher‐order tensors based on Givens‐like rotations,” **Numerical Linear Algebra with Applications**, 2020.
 
 
 # 🎖 Selected Honors and Awards
